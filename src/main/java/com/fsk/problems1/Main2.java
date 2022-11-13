@@ -7,14 +7,23 @@ import java.util.Arrays;
  */
 public class Main2 {
 
-    public static void main(String[] args) {
-
-    }
-
     public int pivotIndex(int[] nums) {
-        int[] sumLeft = new int[nums.length];
-        int[] sumRight = new int[nums.length];
 
-        return 0;
+        int totalSum = 0;
+
+        for (int i = 0; i < nums.length ; i++) {
+            totalSum = totalSum + nums[i];
+        }
+
+        int leftSum = 0;
+
+        for (int i = 0; i < nums.length ; i++) {
+            int rightSum = totalSum - nums[i] - leftSum;
+            if (rightSum == leftSum) {
+                return i;
+            }
+            leftSum = leftSum + nums[i];
+        }
+        return -1;
     }
 }

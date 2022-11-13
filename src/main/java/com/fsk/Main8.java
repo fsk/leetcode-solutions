@@ -2,6 +2,8 @@ package com.fsk;
 
 import java.util.ArrayList;
 
+
+// Valid Pharantesis Question
 public class Main8 {
 
     public static void main(String[] args) {

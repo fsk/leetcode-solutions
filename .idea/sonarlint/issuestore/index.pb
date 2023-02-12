@@ -7,3 +7,23 @@ s
 Csrc/main/java/com/fsk/algorithms/binarysearchtree/Algorithm704.java,0/0/003b6546391f7373e961d23160cf3e49776df69b
 |
 Lsrc/main/java/com/fsk/algorithms/binarysearchtree/BinarySearchRecursive.java,b/c/bc1b3de588a63a13f40c8c2c2b128a8f019936c0
+[
++src/main/java/com/fsk/algorithms/Main1.java,a/5/a5835c83941eade0fad33dca5ed8d64f9294338f
+Q
+!src/main/java/com/fsk/Main11.java,8/b/8b34fbe96e4d37f5dd15c308731f06ce843e1189
+Q
+!src/main/java/com/fsk/Main12.java,4/8/48ac63136b9317c365863b6ee8ffef74ac2c8b37
+Q
+!src/main/java/com/fsk/Main13.java,f/8/f8bdcfde7b730f5a51a2b3eee8415fc290cc65a9
+Q
+!src/main/java/com/fsk/Main14.java,e/5/e51472c68a7aa7bf0511af83a70ecb23d804e27a
+Q
+!src/main/java/com/fsk/Main15.java,9/7/9773e1b87b18c4ded4c47b3abdc6cffa8eddf0dc
+Q
+!src/main/java/com/fsk/Main16.java,5/2/52d933495ce881a546e8c2bef48651e9ed416481
+Q
+!src/main/java/com/fsk/Main17.java,b/b/bbca38f10d2c783b1f7ab5fa087d5259e0fef379
+P
+ src/main/java/com/fsk/Main2.java,d/0/d051442c08357ec778ad8a28433ecb216b67e607
+O
+src/main/java/com/fsk/Main.java,c/4/c46a553174e2a488c2febfe32eff60dbb9fc0506

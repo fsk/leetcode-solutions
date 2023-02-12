@@ -19,8 +19,6 @@ public class Main20 {
             n = n / 4;
         }
 
-        if (n == 1) {
-            return true;
-        }else return false;
+        return n == 1;
     }
 }

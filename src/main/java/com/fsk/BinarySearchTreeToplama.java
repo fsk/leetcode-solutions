@@ -4,7 +4,7 @@ public class BinarySearchTreeToplama {
 
     public static void main(String[] args) {
 
-        System.out.println(sum(7,3));
+        System.out.println(sum(1453,-1452));
 
     }
 
@@ -15,7 +15,7 @@ public class BinarySearchTreeToplama {
 
         while (min < max) {
 
-            int mid = (min + max) >> 1;
+            int mid = (min + max)  / 2;
             if (mid == a + b) { return mid; }
             else if (mid <  a + b) min = mid + 1;
             else max = mid - 1;

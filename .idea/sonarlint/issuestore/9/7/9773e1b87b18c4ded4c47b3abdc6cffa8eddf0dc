@@ -1,6 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(üÊ¹°ÿÿÿÿÿ
-f
-java:S3358%"DExtract this nested ternary operation into an independent statement.(ë¸´ùÿÿÿÿ8ääÈ†ä0
-U
-java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8Ó„É†ä0

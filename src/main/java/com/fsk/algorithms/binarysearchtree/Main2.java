@@ -1,6 +1,5 @@
-package com.fsk.algorithms;
+package com.fsk.algorithms.binarysearchtree;
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
@@ -11,7 +10,7 @@ import java.util.stream.IntStream;
  * LeetCode -> 35. Search Insert Position
  */
 
-public class Main1 {
+public class Main2 {
 
     public static void main(String[] args) {
 

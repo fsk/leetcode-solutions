@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main64.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/Interview2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71b4c3029d5c346a1393b85af77f15ac832f40fd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7c26be23e353ea741cdf75a538af0705e7f42ac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main65.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main65.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +59,12 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main65">
-    <configuration name="Interview2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.Interview2" />
+    <configuration name="Deneme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Deneme" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,10 +127,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main65" />
+        <item itemvalue="Application.Deneme" />
         <item itemvalue="Application.Main64" />
         <item itemvalue="Application.Main63" />
         <item itemvalue="Application.Main62" />
-        <item itemvalue="Application.Interview2" />
       </list>
     </recent_temporary>
   </component>
@@ -146,7 +144,10 @@
       <updated>1688550456691</updated>
       <workItem from="1688550457958" duration="2940000" />
       <workItem from="1688588702398" duration="6516000" />
-      <workItem from="1688676269340" duration="5559000" />
+      <workItem from="1688676269340" duration="7301000" />
+      <workItem from="1688862265514" duration="1397000" />
+      <workItem from="1689536710695" duration="2418000" />
+      <workItem from="1689688437222" duration="683000" />
     </task>
     <servers />
   </component>

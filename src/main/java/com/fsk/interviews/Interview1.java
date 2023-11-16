@@ -8,6 +8,13 @@ public class Interview1 {
 
     public static void main(String[] args) {
 
+        String msg = """
+                turkiye java community ve community turkiye
+                java ama ayni zamanda da
+                community java turkiye
+                """;
+
+        duplicateWords(msg);
 
     }
 

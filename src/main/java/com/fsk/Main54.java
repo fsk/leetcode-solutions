@@ -12,7 +12,7 @@ public class Main54 {
 
     public static void main(String[] args) {
 
-        System.out.println(findLucky(new int[]{2, 2, 2, 3, 4}));
+        System.out.println(findLucky(new int[]{2, 2, 3,3,3, 4,4,4,4}));
     }
 
     public static int findLucky(int[] arr) {

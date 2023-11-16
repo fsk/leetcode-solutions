@@ -28,21 +28,21 @@ public class Main8 {
 
             char popChar;
             switch (x) {
-                case ')':
+                case ')' -> {
                     popChar = deque.pop();
                     if (popChar == '{' || popChar == '[')
                         return false;
-                    break;
-                case '}':
-                    popChar =  deque.pop();
+                }
+                case '}' -> {
+                    popChar = deque.pop();
                     if (popChar == '(' || popChar == '[')
                         return false;
-                    break;
-                case ']':
+                }
+                case ']' -> {
                     popChar = deque.pop();
                     if (popChar == '(' || popChar == '{')
                         return false;
-                    break;
+                }
             }
 
         }

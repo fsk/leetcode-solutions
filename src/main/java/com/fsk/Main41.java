@@ -12,7 +12,6 @@ import java.util.stream.IntStream;
 public class Main41 {
 
     public static void main(String[] args) {
-        System.out.println(containsDuplicate(new int[]{2,14,18,22,22}));
         System.out.println(containsDuplicate2(new int[]{2,14,18,22,22}));
 
     }
@@ -35,11 +34,9 @@ public class Main41 {
         if (nums.length == 1) return false;
         Set<Integer> items = new HashSet<>();
         for (int num : nums) {
-            if (!items.add(num)) {
-                return true;
-            }
+            items.add(num);
         }
-        return false;
+        return items.size() != nums.length;
     }
 
 

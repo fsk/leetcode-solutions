@@ -32,7 +32,10 @@ public class Main38 {
         List<String> wordList = new ArrayList<>();
 
         for (int i = 0; i < words.length; i++) {
-            List<Character> characterList = words[i].chars().map(Character::toUpperCase).mapToObj(item -> (char) item).toList();
+            List<Character> characterList = words[i]
+                    .chars()
+                    .map(Character::toUpperCase)
+                    .mapToObj(item -> (char) item).toList();
             if (
                     new HashSet<>(row1).containsAll(characterList) ||
                     new HashSet<>(row2).containsAll(characterList) ||

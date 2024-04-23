@@ -10,7 +10,7 @@ public class BinarySearchIterative {
 
     }
 
-    public static int searchIterative(int nums[], int target) {
+    public static int searchIterative(int[] nums, int target) {
 
         int index = -1;
 

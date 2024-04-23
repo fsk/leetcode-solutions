@@ -9,7 +9,7 @@ import java.util.List;
 
 public class Main16 {
     public static void main(String[] args) {
-        System.out.println(isUgly(14));
+        System.out.println(isUgly3(10));
     }
 
     public static boolean isUgly(int n) {
@@ -31,9 +31,7 @@ public class Main16 {
                     .filter(item -> item > 5)
                     .toList();
 
-            if (!moreFiveList.isEmpty()) {
-                return false;
-            }else return true;
+            return moreFiveList.isEmpty();
 
         }
     }
@@ -55,16 +53,14 @@ public class Main16 {
                 count++;
             }
         }
-        if (count == 1) {
-            return true;
-        }else return false;
+        return count == 1;
     }
 
 
     /**
      * LeetCode solution. This isnt my solution
      */
-    public static boolean isUglyLeetCodeSolution(int n) {
+    public static boolean isUgly2(int n) {
         if (n == 0) {
             return false;
         }
@@ -73,10 +69,22 @@ public class Main16 {
             return true;
         }
 
-        if (n % 2 == 0) return isUglyLeetCodeSolution(n / 2);
-        if (n % 3 == 0) return isUglyLeetCodeSolution(n / 3);
-        if (n % 5 == 0) return isUglyLeetCodeSolution(n / 5);
+        if (n % 2 == 0) return isUgly2(n / 2);
+        if (n % 3 == 0) return isUgly2(n / 3);
+        if (n % 5 == 0) return isUgly2(n / 5);
 
         return false;
+    }
+
+    public static boolean isUgly3(int n) {
+        int[] divisors = {2, 3, 5};
+        for (int divisor : divisors) {
+            while (n % divisor == 0) {
+                n = n / divisor;
+            }
+        }
+
+        // Eğer sonunda sayı 1'e eşitse, bu bir ugly sayıdır.
+        return n == 1;
     }
 }

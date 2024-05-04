@@ -4,35 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/graph/Graph1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/graph/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/AgirlikliGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/Classssss/GraphClassWithNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/QueueClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/QueueMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/linkedliststructure/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/linkedliststructure/SinglyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/linkedliststructure/circular/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/stack/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/stack/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/stack/MyStackClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/tree/BST.java" afterDir="false" />
+    <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/binarysearchtree/BinarySearchIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/binarysearchtree/BinarySearchIterative.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main37.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main38.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main41.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main46.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main54.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main54.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main58.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main58.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,47 +38,54 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BST.executor": "Run",
-    "Application.Graph.executor": "Run",
-    "Application.GraphClassWithNode.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Main1.executor": "Run",
-    "Application.Main16.executor": "Debug",
-    "Application.MergeSort.executor": "Debug",
-    "Application.com.fsk.denemeler.Main (1).executor": "Run",
-    "Application.com.fsk.denemeler.Main.executor": "Run",
-    "Application.com.fsk.denemeler.stack.Main.executor": "Run",
-    "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
-    "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/fsk/Desktop/leetcode-solutions",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BST.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GraphClassWithNode.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main16.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pattern7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fsk.denemeler.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fsk.denemeler.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fsk.denemeler.stack.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fsk.denemeler.stack.Main1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.fsk.denemeler.tree.Main.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/fsk/Desktop/leetcode-solutions&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.fsk.interviews" />
       <recent name="com.fsk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.fsk.denemeler.tree.Main">
-    <configuration name="BST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.tree.BST" />
+  <component name="RunManager" selected="Application.Pattern7">
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Pattern3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.tree.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.linkedliststructure.Main" />
+    <configuration name="Pattern4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Pattern4" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.linkedliststructure.MyNode" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main16" />
+    <configuration name="Pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Pattern5" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.fsk.denemeler.stack.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.stack.Main" />
+    <configuration name="Pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Pattern6" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.stack.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.fsk.denemeler.tree.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.tree.Main" />
+    <configuration name="Pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Pattern7" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.tree.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.fsk.denemeler.tree.Main" />
-        <item itemvalue="Application.BST" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main16" />
-        <item itemvalue="Application.com.fsk.denemeler.stack.Main" />
+        <item itemvalue="Application.Pattern7" />
+        <item itemvalue="Application.Pattern5" />
+        <item itemvalue="Application.Pattern6" />
+        <item itemvalue="Application.Pattern4" />
+        <item itemvalue="Application.Pattern3" />
       </list>
     </recent_temporary>
   </component>
@@ -191,11 +178,38 @@
       <workItem from="1689688437222" duration="683000" />
       <workItem from="1712270866970" duration="8402000" />
       <workItem from="1712448847308" duration="40829000" />
+      <workItem from="1713893963219" duration="56000" />
+      <workItem from="1713894945409" duration="7651000" />
+      <workItem from="1714559464142" duration="17000" />
     </task>
+    <task id="LOCAL-00001" summary="algoritma poc">
+      <option name="closed" value="true" />
+      <created>1713894012605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713894012605</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="algoritma poc" />
+    <option name="LAST_COMMIT_MESSAGE" value="algoritma poc" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -224,6 +238,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/fsk/denemeler/tree/BST.java</url>
           <line>63</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

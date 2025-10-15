@@ -87,4 +87,23 @@ public class Main16 {
         // Eğer sonunda sayı 1'e eşitse, bu bir ugly sayıdır.
         return n == 1;
     }
+
+
+    public static boolean isPrime5(int n) {
+        if (n <= 1) return false;   // 0 ve 1 asal değil
+        if (n == 2) return true;    // 2 asal
+        if (n % 2 == 0) return false; // çift sayılar asal değil
+
+        for (int i = 3; i * i <= n; i += 2) {
+            if (n % i == 0) return false;
+        }
+        return true;
+    }
+
+    public static void printBits(int n) {
+        if (n > 1) {
+            printBits(n / 2); // önce üst basamakları yaz
+        }
+        System.out.print(n % 2); // sonra bu basamağı yaz
+    }
 }

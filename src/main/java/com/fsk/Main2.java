@@ -16,8 +16,6 @@ public class Main2 {
             sum=(sum*10)+r;
             x=x/10;
         }
-        if (temp == sum) {
-            return true;
-        }else return false;
+        return temp == sum;
     }
 }

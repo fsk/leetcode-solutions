@@ -11,7 +11,7 @@ public class Main13 {
 
         //System.out.println(isPowerOfTwo(15));
 
-        isPowerOfTwo(1);
+        System.out.println(isPowerOfTwo(32));
 
 
     }

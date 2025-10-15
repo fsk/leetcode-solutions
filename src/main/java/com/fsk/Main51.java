@@ -22,9 +22,9 @@ public class Main51 {
 
         List<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < String.valueOf(nums[i]).split("\\B").length; j++) {
-                list.add(Integer.valueOf(String.valueOf(nums[i]).split("\\B")[j]));
+        for (int num : nums) {
+            for (int j = 0; j < String.valueOf(num).split("\\B").length; j++) {
+                list.add(Integer.valueOf(String.valueOf(num).split("\\B")[j]));
             }
         }
 

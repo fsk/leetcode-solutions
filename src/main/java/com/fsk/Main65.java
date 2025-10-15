@@ -8,13 +8,13 @@ public class Main65 {
     public static void main(String[] args) {
 
         int[] arr = countBits(5);
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println(arr[i]);
+        for (int j : arr) {
+            System.out.println(j);
         }
     }
 
     public static int[] countBits(int n) {
-        int arr[] = new int[n+1];
+        int[] arr = new int[n+1];
         for (int i = 0; i <= n; i++) {
             arr[i] = getBits(i).length();
         }

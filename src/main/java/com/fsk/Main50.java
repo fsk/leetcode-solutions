@@ -13,10 +13,10 @@ public class Main50 {
     public static int maximumCount(int[] nums) {
         int countNegative = 0;
         int countPozitive = 0;
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] < 0) {
+        for (int num : nums) {
+            if (num < 0) {
                 countNegative++;
-            }else if (nums[i] > 0) {
+            } else if (num > 0) {
                 countPozitive++;
             }
         }

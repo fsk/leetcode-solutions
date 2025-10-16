@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main69Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/ankarabilimuni/Mainnnn.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/problems1/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/problems1/Main2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +82,7 @@
     "JUnit.Main69Test.thirdMax.executor": "Run",
     "JUnit.Main69Test.thirdMax_test2.executor": "Debug",
     "JUnit.Main69Test.thirdMax_test3.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test4.executor": "Run",
     "JUnit.Question1Test.twoSum.executor": "Run",
     "JUnit.Question1Test.twoSum2.executor": "Run",
     "JUnit.Question2Test.numUniqueEmails.executor": "Run",
@@ -263,7 +263,7 @@
       <workItem from="1760367356437" duration="612000" />
       <workItem from="1760469076509" duration="7983000" />
       <workItem from="1760555952749" duration="5230000" />
-      <workItem from="1760641987930" duration="8727000" />
+      <workItem from="1760641987930" duration="8952000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />

@@ -11,8 +11,8 @@ public class Main2 {
 
         int totalSum = 0;
 
-        for (int i = 0; i < nums.length ; i++) {
-            totalSum = totalSum + nums[i];
+        for (int num : nums) {
+            totalSum = totalSum + num;
         }
 
         int leftSum = 0;

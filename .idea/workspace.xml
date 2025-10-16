@@ -5,16 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Main69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/starpatterns/Main69Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main69Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +80,9 @@
     "JUnit.Main66Test.testReverseBit2.executor": "Run",
     "JUnit.Main67Test.testConstructor4.executor": "Run",
     "JUnit.Main69Test.addStrings.executor": "Run",
+    "JUnit.Main69Test.thirdMax.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test2.executor": "Debug",
+    "JUnit.Main69Test.thirdMax_test3.executor": "Run",
     "JUnit.Question1Test.twoSum.executor": "Run",
     "JUnit.Question1Test.twoSum2.executor": "Run",
     "JUnit.Question2Test.numUniqueEmails.executor": "Run",
@@ -131,25 +127,12 @@
       <recent name="com.fsk" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fsk" />
       <recent name="com.fsk.starpatterns" />
       <recent name="com.fsk.interviews.adobe" />
-      <recent name="com.fsk" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Main69Test.addStrings">
-    <configuration name="Main69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Main69" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsk.starpatterns.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Main69Test.thirdMax_test4">
     <configuration name="Main69Test.addStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -166,49 +149,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3Test.missingNumber_test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main69Test.thirdMax" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
-      <option name="METHOD_NAME" value="missingNumber_test2" />
+      <option name="PACKAGE_NAME" value="com.fsk" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
+      <option name="METHOD_NAME" value="thirdMax" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3Test.missingNumber_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main69Test.thirdMax_test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
-      <option name="METHOD_NAME" value="missingNumber_test3" />
+      <option name="PACKAGE_NAME" value="com.fsk" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
+      <option name="METHOD_NAME" value="thirdMax_test2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question3Test.missingNumber_test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main69Test.thirdMax_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
-      <option name="METHOD_NAME" value="missingNumber_test4" />
+      <option name="PACKAGE_NAME" value="com.fsk" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
+      <option name="METHOD_NAME" value="thirdMax_test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main69Test.thirdMax_test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fsk" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
+      <option name="METHOD_NAME" value="thirdMax_test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -216,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Main69Test.thirdMax_test4" />
+        <item itemvalue="JUnit.Main69Test.thirdMax_test3" />
+        <item itemvalue="JUnit.Main69Test.thirdMax_test2" />
+        <item itemvalue="JUnit.Main69Test.thirdMax" />
         <item itemvalue="JUnit.Main69Test.addStrings" />
-        <item itemvalue="Application.Main69" />
-        <item itemvalue="JUnit.Question3Test.missingNumber_test4" />
-        <item itemvalue="JUnit.Question3Test.missingNumber_test3" />
-        <item itemvalue="JUnit.Question3Test.missingNumber_test2" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +263,7 @@
       <workItem from="1760367356437" duration="612000" />
       <workItem from="1760469076509" duration="7983000" />
       <workItem from="1760555952749" duration="5230000" />
-      <workItem from="1760641987930" duration="7342000" />
+      <workItem from="1760641987930" duration="8727000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />

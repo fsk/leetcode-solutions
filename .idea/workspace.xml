@@ -5,149 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copilot.data.migration.edit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/DenemeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main66Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main67Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Main69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/interviews/adobe/Question3Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/starpatterns/Main69Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/BinarySearchTreeToplama.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/BinarySearchTreeToplama.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main21.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main22.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main24.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main25.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main26.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main27.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main28.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main29.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main29.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main30.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main30.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main31.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main31.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main32.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main32.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main33.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main33.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main34.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main34.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main35.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main35.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main36.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main36.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main37.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main37.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main38.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main38.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main39.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main39.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main40.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main40.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main41.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main41.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main42.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main42.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main43.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main43.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main44.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main44.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main45.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main45.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main46.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main46.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main47.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main47.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main48.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main48.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main49.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main49.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main50.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main50.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main51.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main51.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main52.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main52.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main53.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main53.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main54.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main54.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main55.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main55.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main56.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main56.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main57.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main57.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main58.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main58.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main59.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main59.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main60.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main60.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main61.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main61.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main62.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main62.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main63.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main63.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main64.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main64.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main65.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main65.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main8.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/Main9.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/Main9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Algorithm704.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Algorithm704.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/BinarySearchIterative.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/BinarySearchIterative.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/BinarySearchRecursive.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/BinarySearchRecursive.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/binarysearchtree/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/graph/Graph1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/graph/Graph1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/graph/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/graph/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/algorithms/twopointerstechniquie/Main3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/AgirlikliGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/AgirlikliGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/GraphClassWithNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/GraphClassWithNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Classssss/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/QueueClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/QueueClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/QueueMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/QueueMain.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/DoublyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/MyNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/MyNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Node2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/Node2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/SinglyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/SinglyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/CircularLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/CircularLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/MyNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/linkedliststructure/circular/MyNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/MyStackClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/stack/MyStackClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/BinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/BinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/denemeler/tree/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/interviews/ArmstrongNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/interviews/ArmstrongNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/interviews/Interview2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Interview.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Interview.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Main1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Main1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Main2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/problems1/Main2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern4.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern5.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern7.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/fsk/starpatterns/Pattern7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/Main2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/Main2Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/Main4Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/Main4Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/Main5Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/Main5Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/Main6Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/Main6Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/interviews/Interview1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/interviews/Interview1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/problems1/Main1Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/problems1/Main1Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/fsk/problems1/Main2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/fsk/problems1/Main2Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +26,7 @@
       <list>
         <option value="JUnit3 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -186,61 +54,76 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DenemeMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphClassWithNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main16.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main66.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main67.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Mainnnn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.tree.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Main66Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main67Test.testConstructor4.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fsk/Desktop/coding/leetcode-solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BST.executor": "Run",
+    "Application.DenemeMain1.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.GraphClassWithNode.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main13.executor": "Run",
+    "Application.Main16.executor": "Debug",
+    "Application.Main66.executor": "Debug",
+    "Application.Main67.executor": "Debug",
+    "Application.Main69.executor": "Run",
+    "Application.Mainnnn.executor": "Run",
+    "Application.MergeSort.executor": "Debug",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.Question3.executor": "Debug",
+    "Application.com.fsk.denemeler.Main (1).executor": "Run",
+    "Application.com.fsk.denemeler.Main.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
+    "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
+    "JUnit.Main66Test.executor": "Run",
+    "JUnit.Main66Test.testReverseBit.executor": "Run",
+    "JUnit.Main66Test.testReverseBit2.executor": "Run",
+    "JUnit.Main67Test.testConstructor4.executor": "Run",
+    "JUnit.Main69Test.addStrings.executor": "Run",
+    "JUnit.Question1Test.twoSum.executor": "Run",
+    "JUnit.Question1Test.twoSum2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test2.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test4.executor": "Run",
+    "Maven.LeetCode [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fsk/Desktop/coding/leetcode-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
       <recent name="junit.framework.TestCase" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -248,16 +131,18 @@
       <recent name="com.fsk" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fsk.starpatterns" />
+      <recent name="com.fsk.interviews.adobe" />
       <recent name="com.fsk" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main67">
-    <configuration name="DenemeMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.DenemeMain1" />
+  <component name="RunManager" selected="JUnit.Main69Test.addStrings">
+    <configuration name="Main69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Main69" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -265,61 +150,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main67" />
+    <configuration name="Main69Test.addStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.starpatterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main66Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main66Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main66Test.testReverseBit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main66Test" />
-      <option name="METHOD_NAME" value="testReverseBit" />
+      <option name="PACKAGE_NAME" value="com.fsk.starpatterns" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.starpatterns.Main69Test" />
+      <option name="METHOD_NAME" value="addStrings" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main67Test.testConstructor4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Question3Test.missingNumber_test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main67Test" />
-      <option name="METHOD_NAME" value="testConstructor4" />
+      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
+      <option name="METHOD_NAME" value="missingNumber_test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3Test.missingNumber_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
+      <option name="METHOD_NAME" value="missingNumber_test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question3Test.missingNumber_test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsk.interviews.adobe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fsk.interviews.adobe" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.adobe.Question3Test" />
+      <option name="METHOD_NAME" value="missingNumber_test4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -327,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main67" />
-        <item itemvalue="JUnit.Main67Test.testConstructor4" />
-        <item itemvalue="Application.DenemeMain1" />
-        <item itemvalue="JUnit.Main66Test" />
-        <item itemvalue="JUnit.Main66Test.testReverseBit" />
+        <item itemvalue="JUnit.Main69Test.addStrings" />
+        <item itemvalue="Application.Main69" />
+        <item itemvalue="JUnit.Question3Test.missingNumber_test4" />
+        <item itemvalue="JUnit.Question3Test.missingNumber_test3" />
+        <item itemvalue="JUnit.Question3Test.missingNumber_test2" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +263,8 @@
       <workItem from="1760137137947" duration="2441000" />
       <workItem from="1760367356437" duration="612000" />
       <workItem from="1760469076509" duration="7983000" />
-      <workItem from="1760555952749" duration="22000" />
+      <workItem from="1760555952749" duration="5230000" />
+      <workItem from="1760641987930" duration="7342000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />
@@ -437,6 +327,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/fsk/starpatterns/Pattern3.java</url>
           <line>8</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/interviews/adobe/Question2.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

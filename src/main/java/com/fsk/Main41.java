@@ -1,5 +1,6 @@
 package com.fsk;
 
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Set;
 import java.util.stream.Collectors;
@@ -46,5 +47,16 @@ public class Main41 {
                 .boxed()
                 .collect(Collectors.toSet())
                 .size() != nums.length;
+    }
+
+    public boolean containsDuplicate4(int[] nums) {
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for (int num : nums) {
+            if (map.containsKey(num)) {
+                return true;
+            }
+            map.put(num, 1);
+        }
+        return false;
     }
 }

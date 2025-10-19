@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main70Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/binarysearch/LogBinarySearchReadable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/binarysearch/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/binarysearch/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/twopointertechnique/codings/q1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/twopointertechnique/codings/q1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/twopointertechnique/codings/q2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/twopointertechnique/codings/q3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main41.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit3 Test Class" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,6 +81,7 @@
     "Application.com.fsk.denemeler.stack.Main.executor": "Run",
     "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
     "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
+    "Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor": "Run",
     "JUnit.Main66Test.executor": "Run",
     "JUnit.Main66Test.testReverseBit.executor": "Run",
     "JUnit.Main66Test.testReverseBit2.executor": "Run",
@@ -136,51 +143,42 @@
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Main70Test.hammingWeight_test3">
-    <configuration name="Main69Test.thirdMax_test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.com.fsk.youtube.twopointertechnique.codings.q3.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.twopointertechnique.codings.q2.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.youtube.twopointertechnique.codings.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
-      <option name="METHOD_NAME" value="thirdMax_test3" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main69Test.thirdMax_test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.twopointertechnique.codings.q1.Main1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.youtube.twopointertechnique.codings.q1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main69Test" />
-      <option name="METHOD_NAME" value="thirdMax_test4" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main70Test.hammingWeight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.fsk.youtube.twopointertechnique.codings.q3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.twopointertechnique.codings.q3.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.youtube.twopointertechnique.codings.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main70Test" />
-      <option name="METHOD_NAME" value="hammingWeight" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.fsk.youtube.twopointertechnique.codings.q3.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main1" />
         <item itemvalue="JUnit.Main70Test.hammingWeight_test3" />
         <item itemvalue="JUnit.Main70Test.hammingWeight_test2" />
-        <item itemvalue="JUnit.Main70Test.hammingWeight" />
-        <item itemvalue="JUnit.Main69Test.thirdMax_test4" />
-        <item itemvalue="JUnit.Main69Test.thirdMax_test3" />
       </list>
     </recent_temporary>
   </component>
@@ -268,6 +266,7 @@
       <workItem from="1760469076509" duration="7983000" />
       <workItem from="1760555952749" duration="5230000" />
       <workItem from="1760641987930" duration="11146000" />
+      <workItem from="1760706106994" duration="22606000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />

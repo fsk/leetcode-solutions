@@ -1,6 +1,6 @@
-package com.fsk.starpatterns;
+package com.fsk;
 
-public class Main69 {
+public class Main74 {
 
     public static void main(String[] args) {
 

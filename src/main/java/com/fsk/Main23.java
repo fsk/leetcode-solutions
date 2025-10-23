@@ -21,6 +21,15 @@ public class Main23 {
         return false;
     }
 
+    public static boolean isPerfectSquare_Sum(int num) {
+        int odd = 1;
+        while (num > 0) {
+            num -= odd;
+            odd += 2;
+        }
+        return num == 0;
+    }
+
     //BinarySearch MySolution
     public static boolean isPerfectSquare2(int num) {
         int start = 1;
@@ -36,6 +45,16 @@ public class Main23 {
             }
         }
         return false;
+    }
+
+    public static boolean isPerfectSquare_Newton(int num) {
+        if (num < 2) return true;
+
+        long x = num / 2;
+        while (x * x > num) {
+            x = (x + num / x) / 2;
+        }
+        return x * x == num;
     }
 
 

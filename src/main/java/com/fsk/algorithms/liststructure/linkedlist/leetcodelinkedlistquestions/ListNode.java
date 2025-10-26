@@ -24,6 +24,11 @@ public class ListNode {
 
         ListNode current = this;
 
+        if (this.val == 0 && this.next == null) {
+            this.val = val;
+            return;
+        }
+
         while (current.next != null) {
             current = current.next;
         }
@@ -32,10 +37,14 @@ public class ListNode {
 
     public void printList() {
         ListNode cur = this;
-        while (cur.next != null) {
-            System.out.print(cur.val + "->");
+        while (cur != null) {
+            System.out.print(cur.val);
+            if (cur.next != null) {
+                System.out.print("->");
+            }
             cur = cur.next;
         }
+        System.out.println();
     }
 
     public boolean hasCycle(ListNode head) {

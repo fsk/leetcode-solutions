@@ -1,4 +1,4 @@
-package com.fsk.algorithms.liststructure.linkedlist;
+package com.fsk.youtube.liststructure.linkedlist;
 
 public class LinkedListNode {
 
@@ -34,33 +34,36 @@ public class LinkedListNode {
     public int size() {
         int count = 0;
         LinkedListNode current = head;
-        if (head != null) {
+        while (current != null) {
             count++;
-            while (current.next != null) {
-                count++;
-                current = current.next;
-            }
-            return  count;
+            current = current.next;
         }
-        return 0;
+        return count;
     }
 
     public int delete(int value) {
-        LinkedListNode current = head;
         if (head == null) {
             return -1;
-        }else if (size() == 1) {
-            int deletedValue = current.data;
-            head = null;
-            return deletedValue;
-        }else {
-            while (current.next.data == value) {
-                current.next.data = current.next.next.data;
-                current.next = null;
-                return value;
-            }
         }
-        return 0;
+
+        // Eğer silinecek değer head'de ise
+        if (head.data == value) {
+            int deletedValue = head.data;
+            head = head.next;
+            return deletedValue;
+        }
+
+        LinkedListNode current = head;
+        while (current.next != null) {
+            if (current.next.data == value) {
+                int deletedValue = current.next.data;
+                current.next = current.next.next;
+                return deletedValue;
+            }
+            current = current.next;
+        }
+
+        return -1; // Değer bulunamadı
     }
 
     public void print() {

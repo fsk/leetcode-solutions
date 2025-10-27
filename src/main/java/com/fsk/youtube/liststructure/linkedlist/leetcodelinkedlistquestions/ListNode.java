@@ -1,4 +1,4 @@
-package com.fsk.algorithms.liststructure.linkedlist.leetcodelinkedlistquestions;
+package com.fsk.youtube.liststructure.linkedlist.leetcodelinkedlistquestions;
 
 import java.util.HashSet;
 import java.util.Set;

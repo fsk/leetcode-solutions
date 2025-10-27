@@ -1,6 +1,4 @@
-package com.fsk.algorithms.liststructure.linkedlist.leetcodelinkedlistquestions;
-
-import com.fsk.algorithms.liststructure.linkedlist.LinkedListNode;
+package com.fsk.youtube.liststructure.linkedlist.leetcodelinkedlistquestions;
 
 public class Main1 {
 

@@ -1,4 +1,4 @@
-package com.fsk.algorithms.liststructure.linkedlist.leetcodelinkedlistquestions;
+package com.fsk.youtube.liststructure.linkedlist.leetcodelinkedlistquestions;
 
 public class Main2 {
 

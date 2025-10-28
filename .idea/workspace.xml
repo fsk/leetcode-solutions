@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/stringmanipulations/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/bitwiseoperations/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/liststructure/linkedlist/LinkedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/liststructure/linkedlist/LinkedListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/liststructure/linkedlist/leetcodelinkedlistquestions/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/liststructure/linkedlist/leetcodelinkedlistquestions/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/liststructure/linkedlist/leetcodelinkedlistquestions/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/liststructure/linkedlist/leetcodelinkedlistquestions/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/liststructure/linkedlist/leetcodelinkedlistquestions/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/liststructure/linkedlist/leetcodelinkedlistquestions/Main2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/algorithms/liststructure/linkedlist/leetcodelinkedlistquestions/Main3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/liststructure/linkedlist/leetcodelinkedlistquestions/Main3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,91 +50,93 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DenemeMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphClassWithNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main16.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main66.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main67.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main69.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main76.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main77.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Mainnnn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PythagorasTriples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question3.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.com.fsk.denemeler.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.tree.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main67Test.testConstructor4.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.addStrings.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test2.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test4.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main71Test.reverseVowels.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main71Test.reverseVowels_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main73Test.relativeSortArray.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question1Test.twoSum.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question1Test.twoSum2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails_Test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails_Test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test4.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.LeetCode [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fsk/Desktop/coding/leetcode-solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.BST.executor": "Run",
+    "Application.DenemeMain1.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.GraphClassWithNode.executor": "Run",
+    "Application.LinkedListNode.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main13.executor": "Run",
+    "Application.Main16.executor": "Debug",
+    "Application.Main3.executor": "Run",
+    "Application.Main66.executor": "Debug",
+    "Application.Main67.executor": "Debug",
+    "Application.Main69.executor": "Run",
+    "Application.Main76.executor": "Run",
+    "Application.Main77.executor": "Run",
+    "Application.Main78.executor": "Debug",
+    "Application.Main79.executor": "Debug",
+    "Application.Mainnnn.executor": "Run",
+    "Application.MergeSort.executor": "Debug",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PythagorasTriples.executor": "Run",
+    "Application.Question3.executor": "Debug",
+    "Application.com.fsk.denemeler.Main (1).executor": "Run",
+    "Application.com.fsk.denemeler.Main.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
+    "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
+    "Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor": "Run",
+    "JUnit.Main66Test.executor": "Run",
+    "JUnit.Main66Test.testReverseBit.executor": "Run",
+    "JUnit.Main66Test.testReverseBit2.executor": "Run",
+    "JUnit.Main67Test.testConstructor4.executor": "Run",
+    "JUnit.Main69Test.addStrings.executor": "Run",
+    "JUnit.Main69Test.thirdMax.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test2.executor": "Debug",
+    "JUnit.Main69Test.thirdMax_test3.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test4.executor": "Run",
+    "JUnit.Main70Test.hammingWeight.executor": "Run",
+    "JUnit.Main70Test.hammingWeight_test2.executor": "Run",
+    "JUnit.Main70Test.hammingWeight_test3.executor": "Run",
+    "JUnit.Main71Test.reverseVowels.executor": "Run",
+    "JUnit.Main71Test.reverseVowels_test2.executor": "Run",
+    "JUnit.Main73Test.relativeSortArray.executor": "Run",
+    "JUnit.Question1Test.twoSum.executor": "Run",
+    "JUnit.Question1Test.twoSum2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test2.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test4.executor": "Run",
+    "Maven.LeetCode [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fsk/Desktop/coding/leetcode-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -152,13 +153,13 @@
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PythagorasTriples">
-    <configuration name="ApproximateSqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.numbertheories.ApproximateSqrt" />
+  <component name="RunManager" selected="Application.Main79">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.bitwiseoperations.Main" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.youtube.numbertheories.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.bitwiseoperations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +167,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.numbertheories.ArmstrongNumber" />
+    <configuration name="Main77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main77" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.youtube.numbertheories.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +180,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.algorithms.liststructure.linkedlist.leetcodelinkedlistquestions.Main3" />
+    <configuration name="Main78" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main78" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.algorithms.liststructure.linkedlist.leetcodelinkedlistquestions.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +193,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.numbertheories.PerfectNumber" />
+    <configuration name="Main79" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main79" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.youtube.numbertheories.*" />
+          <option name="PATTERN" value="com.fsk.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -220,11 +221,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main79" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main78" />
+        <item itemvalue="Application.Main77" />
         <item itemvalue="Application.PythagorasTriples" />
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.ApproximateSqrt" />
-        <item itemvalue="Application.Main3" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +282,8 @@
       <workItem from="1761484076523" duration="2446000" />
       <workItem from="1761503102775" duration="4672000" />
       <workItem from="1761561418765" duration="592000" />
-      <workItem from="1761578442970" duration="2350000" />
+      <workItem from="1761578442970" duration="2377000" />
+      <workItem from="1761665588253" duration="7037000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />
@@ -354,6 +356,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main71.java</url>
           <line>17</line>
           <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main78.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main79.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

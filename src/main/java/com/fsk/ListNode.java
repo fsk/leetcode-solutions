@@ -23,6 +23,25 @@ public class ListNode {
         current.next = new ListNode(data);
     }
 
+    public ListNode deleteNode(ListNode head, int data) {
+
+        while (head != null && head.val == data) {
+            head = head.next;
+        }
+
+        ListNode current = head;
+
+        while (current != null && current.next != null) {
+            if (current.next.val == data) {
+                current.next = current.next.next;
+            }else {
+                current = current.next;
+            }
+        }
+
+        return head;
+    }
+
     public void  print() {
         ListNode current = this;
         while (current != null) {

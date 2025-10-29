@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class Main73Test {
+class Main69Test {
 
     @Test
     void thirdMax_test1() {

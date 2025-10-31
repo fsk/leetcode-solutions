@@ -1,6 +1,5 @@
 package com.fsk;
 
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
@@ -27,5 +26,7 @@ class Main82Test {
     })
     void smallestNumber(int n, int expected) {
         assertEquals(expected, Main82.smallestNumber(n));
+        assertEquals(expected, Main82.smallestNumber2(n));
+        assertEquals(expected, Main82.smallestNumber3(n));
     }
 }

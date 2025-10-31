@@ -19,4 +19,23 @@ public class ApproximateSqrt {
 
         return x;
     }
+
+    public static boolean isPerfectSquareNewton(int n) {
+        if (n < 0) return false;
+        long x = n;
+        while (x * x > n) {
+            x = (x + n / x) / 2;
+        }
+        return x * x == n;
+    }
+
+    public static boolean isPerfectSquareByDifferences(int n) {
+        if (n < 0) return false;
+        int odd = 1;
+        while (n > 0) {
+            n = n - odd;
+            odd = odd + 2;
+        }
+        return n == 0; // sıfırda biterse tam karedir
+    }
 }

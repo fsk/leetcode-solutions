@@ -5,13 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main82.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main82Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main85.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main87.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/numbertheories/Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/numbertheories/Prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main86Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main87Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/fsk/Main69Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main69Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main82.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/numbertheories/ApproximateSqrt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/youtube/numbertheories/ApproximateSqrt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fsk/Main82Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fsk/Main82Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +29,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit3 Test Class" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -42,6 +49,9 @@
     &quot;accountId&quot;: &quot;ba75976f-0279-4db2-b35d-51563ad0aac8&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.15-tem/lib/src.zip!/java.base/java/util/BitSet.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -55,6 +65,7 @@
   "keyToString": {
     "Application.ArmstrongNumber.executor": "Run",
     "Application.BST.executor": "Run",
+    "Application.Binary.executor": "Debug",
     "Application.DenemeMain1.executor": "Run",
     "Application.Graph.executor": "Run",
     "Application.GraphClassWithNode.executor": "Run",
@@ -74,6 +85,7 @@
     "Application.Main80.executor": "Run",
     "Application.Main81.executor": "Debug",
     "Application.Main82.executor": "Run",
+    "Application.Main83.executor": "Run",
     "Application.Mainnnn.executor": "Run",
     "Application.MergeSort.executor": "Debug",
     "Application.Pattern1.executor": "Run",
@@ -109,6 +121,8 @@
     "JUnit.Main73Test.relativeSortArray.executor": "Run",
     "JUnit.Main82Test.executor": "Run",
     "JUnit.Main82Test.smallestNumber.executor": "Run",
+    "JUnit.Main86Test.getSneakyNumbers.executor": "Run",
+    "JUnit.Main87Test.maximumWealth.executor": "Run",
     "JUnit.Question1Test.twoSum.executor": "Run",
     "JUnit.Question1Test.twoSum2.executor": "Run",
     "JUnit.Question2Test.numUniqueEmails.executor": "Run",
@@ -159,9 +173,22 @@
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Main82Test">
-    <configuration name="Main80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main80" />
+  <component name="RunManager" selected="JUnit.Main87Test.maximumWealth">
+    <configuration name="Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.numbertheories.Binary" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsk.youtube.numbertheories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main83" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -173,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main81" />
+    <configuration name="PythagorasTriples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.youtube.numbertheories.PythagorasTriples" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.youtube.numbertheories.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,20 +213,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main82" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main82Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main86Test.getSneakyNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -208,13 +222,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main82Test" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main86Test" />
+      <option name="METHOD_NAME" value="getSneakyNumbers" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main82Test.smallestNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main87Test.maximumWealth" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -223,8 +238,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main82Test" />
-      <option name="METHOD_NAME" value="smallestNumber(int,int)" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main87Test" />
+      <option name="METHOD_NAME" value="maximumWealth" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -232,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Main82Test" />
-        <item itemvalue="JUnit.Main82Test.smallestNumber" />
-        <item itemvalue="Application.Main82" />
-        <item itemvalue="Application.Main81" />
-        <item itemvalue="Application.Main80" />
+        <item itemvalue="JUnit.Main87Test.maximumWealth" />
+        <item itemvalue="JUnit.Main86Test.getSneakyNumbers" />
+        <item itemvalue="Application.Binary" />
+        <item itemvalue="Application.Main83" />
+        <item itemvalue="Application.PythagorasTriples" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +309,11 @@
       <workItem from="1761503102775" duration="4672000" />
       <workItem from="1761561418765" duration="592000" />
       <workItem from="1761578442970" duration="2377000" />
-      <workItem from="1761665588253" duration="14612000" />
+      <workItem from="1761665588253" duration="22728000" />
+      <workItem from="1761772659984" duration="2390000" />
+      <workItem from="1761828677833" duration="1417000" />
+      <workItem from="1761842768065" duration="10058000" />
+      <workItem from="1761943569821" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />
@@ -374,9 +393,9 @@
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main81.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="30" />
+          <url>file://$PROJECT_DIR$/src/test/java/com/fsk/Main86Test.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

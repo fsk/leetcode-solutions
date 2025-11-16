@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main97.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main96.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +87,7 @@
     "Application.Main91.executor": "Run",
     "Application.Main95.executor": "Debug",
     "Application.Main96.executor": "Run",
+    "Application.Main97.executor": "Run",
     "Application.Mainnnn.executor": "Run",
     "Application.MergeSort.executor": "Debug",
     "Application.Pattern1.executor": "Run",
@@ -177,19 +177,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Main96">
-    <configuration name="Main90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main90" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fsk.Main91" />
       <module name="LeetCode" />
@@ -229,6 +216,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.Main97" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fsk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main91Test.findNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -248,10 +248,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main96" />
+        <item itemvalue="Application.Main97" />
         <item itemvalue="Application.Main95" />
         <item itemvalue="JUnit.Main91Test.findNumbers" />
         <item itemvalue="Application.Main91" />
-        <item itemvalue="Application.Main90" />
       </list>
     </recent_temporary>
   </component>
@@ -317,7 +317,7 @@
       <workItem from="1763299711186" duration="499000" />
       <workItem from="1763316195611" duration="2549000" />
       <workItem from="1763322532754" duration="37000" />
-      <workItem from="1763326647029" duration="2033000" />
+      <workItem from="1763326647029" duration="4531000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />
@@ -400,6 +400,21 @@
           <url>file://$PROJECT_DIR$/src/test/java/com/fsk/Main86Test.java</url>
           <line>17</line>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main96.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main96.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main97.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

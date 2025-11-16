@@ -3,6 +3,11 @@ package com.fsk;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Combination.
+ * Maybe this is a leeetcode question but i can not figure out about of this problem
+ */
+
 public class Main96 {
 
     public static void main(String[] args) {
@@ -25,7 +30,6 @@ public class Main96 {
 
         if (current.size() == combinationNumber) {
             output.add(new ArrayList<>(current));
-            return;
         }
 
         for (int i = start; i < numsArray.length; i++) {

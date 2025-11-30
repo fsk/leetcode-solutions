@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/computersciencebook/chapter1/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/Interview3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/Main96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main96.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +62,18 @@
     "Application.DenemeMain1.executor": "Run",
     "Application.Graph.executor": "Run",
     "Application.GraphClassWithNode.executor": "Run",
+    "Application.Interview3.executor": "Run",
+    "Application.Java13 (1).executor": "Debug",
+    "Application.Java13.executor": "Run",
     "Application.LinkedListNode.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Main1.executor": "Run",
+    "Application.Main11 (1).executor": "Debug",
+    "Application.Main11 (2).executor": "Debug",
+    "Application.Main11 (3).executor": "Debug",
+    "Application.Main11 (4).executor": "Run",
+    "Application.Main11 (5).executor": "Debug",
+    "Application.Main11.executor": "Debug",
     "Application.Main13.executor": "Run",
     "Application.Main16.executor": "Debug",
     "Application.Main3.executor": "Run",
@@ -88,8 +99,14 @@
     "Application.Main95.executor": "Debug",
     "Application.Main96.executor": "Run",
     "Application.Main97.executor": "Run",
+    "Application.Main98.executor": "Run",
+    "Application.Main99.executor": "Debug",
     "Application.Mainnnn.executor": "Run",
     "Application.MergeSort.executor": "Debug",
+    "Application.OOP1 (1).executor": "Debug",
+    "Application.OOP1 (2).executor": "Debug",
+    "Application.OOP1 (3).executor": "Run",
+    "Application.OOP1.executor": "Run",
     "Application.Pattern1.executor": "Run",
     "Application.Pattern2.executor": "Run",
     "Application.Pattern3.executor": "Run",
@@ -100,11 +117,14 @@
     "Application.PerfectNumber.executor": "Run",
     "Application.PythagorasTriples.executor": "Run",
     "Application.Question3.executor": "Debug",
+    "Application.Silinecek.executor": "Run",
     "Application.com.fsk.denemeler.Main (1).executor": "Run",
     "Application.com.fsk.denemeler.Main.executor": "Run",
     "Application.com.fsk.denemeler.stack.Main.executor": "Run",
     "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
     "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
+    "Application.com.fsk.interviews.interviewrepairing.Main1 (1).executor": "Run",
+    "Application.com.fsk.interviews.interviewrepairing.Main1.executor": "Run",
     "Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor": "Run",
     "JUnit.Main66Test.executor": "Run",
     "JUnit.Main66Test.testReverseBit.executor": "Run",
@@ -176,13 +196,13 @@
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main96">
-    <configuration name="Main91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main91" />
+  <component name="RunManager" selected="Application.OOP1 (3)">
+    <configuration name="Interview3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.Interview3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,12 +210,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main95" />
+    <configuration name="OOP1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,12 +223,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main96" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main96" />
+    <configuration name="OOP1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,12 +236,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main97" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main97" />
+    <configuration name="OOP1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -229,37 +249,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main91Test.findNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="OOP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.*" />
+          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.fsk" />
-      <option name="MAIN_CLASS_NAME" value="com.fsk.Main91Test" />
-      <option name="METHOD_NAME" value="findNumbers" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main96" />
-        <item itemvalue="Application.Main97" />
-        <item itemvalue="Application.Main95" />
-        <item itemvalue="JUnit.Main91Test.findNumbers" />
-        <item itemvalue="Application.Main91" />
+        <item itemvalue="Application.OOP1 (3)" />
+        <item itemvalue="Application.OOP1 (2)" />
+        <item itemvalue="Application.OOP1 (1)" />
+        <item itemvalue="Application.OOP1" />
+        <item itemvalue="Application.Interview3" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -317,7 +334,12 @@
       <workItem from="1763299711186" duration="499000" />
       <workItem from="1763316195611" duration="2549000" />
       <workItem from="1763322532754" duration="37000" />
-      <workItem from="1763326647029" duration="4531000" />
+      <workItem from="1763326647029" duration="6351000" />
+      <workItem from="1763411988883" duration="3385000" />
+      <workItem from="1763500823647" duration="1798000" />
+      <workItem from="1764355154658" duration="333000" />
+      <workItem from="1764357949951" duration="12201000" />
+      <workItem from="1764455292754" duration="1421000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />

@@ -5,11 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="algoritma poc">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/Main99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/computersciencebook/chapter1/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/Interview3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/racecondition/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/racecondition/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +89,9 @@
     "Application.Main11.executor": "Debug",
     "Application.Main13.executor": "Run",
     "Application.Main16.executor": "Debug",
+    "Application.Main2.executor": "Run",
     "Application.Main3.executor": "Run",
+    "Application.Main4.executor": "Run",
     "Application.Main66.executor": "Debug",
     "Application.Main67.executor": "Debug",
     "Application.Main69.executor": "Run",
@@ -122,6 +137,7 @@
     "Application.com.fsk.denemeler.Main.executor": "Run",
     "Application.com.fsk.denemeler.stack.Main.executor": "Run",
     "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
+    "Application.com.fsk.denemeler.threaddenemeler.racecondition.Main2.executor": "Run",
     "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
     "Application.com.fsk.interviews.interviewrepairing.Main1 (1).executor": "Run",
     "Application.com.fsk.interviews.interviewrepairing.Main1.executor": "Run",
@@ -196,13 +212,13 @@
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OOP1 (3)">
-    <configuration name="Interview3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.Interview3" />
+  <component name="RunManager" selected="Application.Main4">
+    <configuration name="Main1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main1" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -210,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP1 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,12 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP1 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
+    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main3" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP1 (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
+    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main4" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -249,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOP1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.interviews.interviewrepairing.oop.OOP1" />
+    <configuration name="com.fsk.denemeler.threaddenemeler.racecondition.Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.interviews.interviewrepairing.oop.*" />
+          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -264,11 +280,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOP1 (3)" />
-        <item itemvalue="Application.OOP1 (2)" />
-        <item itemvalue="Application.OOP1 (1)" />
-        <item itemvalue="Application.OOP1" />
-        <item itemvalue="Application.Interview3" />
+        <item itemvalue="Application.Main4" />
+        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.com.fsk.denemeler.threaddenemeler.racecondition.Main2" />
+        <item itemvalue="Application.Main1" />
+        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +355,7 @@
       <workItem from="1763500823647" duration="1798000" />
       <workItem from="1764355154658" duration="333000" />
       <workItem from="1764357949951" duration="12201000" />
-      <workItem from="1764455292754" duration="1421000" />
+      <workItem from="1764455292754" duration="8161000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />

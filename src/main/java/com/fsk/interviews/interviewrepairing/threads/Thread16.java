@@ -9,14 +9,14 @@ package com.fsk.interviews.interviewrepairing.threads;
 public class Thread16 {
     public static void main(String[] args) {
         Thread thread = new Thread(() -> {
-            System.out.println("Thread başladı");
+            System.out.println("Thread is started");
             @SuppressWarnings("unused")
             int result = 10 / 0; // ArithmeticException
-            System.out.println("Bu satır çalışmaz");
+            System.out.println("This line will not be executed");
         });
         
         thread.setUncaughtExceptionHandler((t, e) -> {
-            System.out.println("Exception yakalandı: " + e.getMessage());
+            System.out.println("Exception caught: " + e.getMessage());
         });
         
         thread.start();
@@ -27,13 +27,13 @@ public class Thread16 {
             e.printStackTrace();
         }
         
-        System.out.println("Main thread devam ediyor");
+        System.out.println("Main thread is running");
     }
 }
 
 // ÇIKTI:
-// Thread başladı
-// Exception yakalandı: / by zero
-// Main thread devam ediyor
+// Thread is started
+// Exception caught: / by zero
+// Main thread is running
 // (Thread exception'ı main thread'i etkilemez)
 

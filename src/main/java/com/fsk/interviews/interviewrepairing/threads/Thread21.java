@@ -11,13 +11,15 @@ public class Thread21 {
     
     public static void main(String[] args) {
         Thread thread1 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 100; i++) {
+                System.out.println("Thread 1: " + counter);
                 counter++;
             }
         });
         
         Thread thread2 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 100; i++) {
+                System.out.println("Thread 2: " + counter);
                 counter++;
             }
         });

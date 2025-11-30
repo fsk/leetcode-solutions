@@ -17,8 +17,7 @@ public class Thread19 {
             
             // Context class loader'ı değiştir
             Thread.currentThread().setContextClassLoader(null);
-            System.out.println("New class loader: " + 
-                Thread.currentThread().getContextClassLoader());
+            System.out.println("New class loader: " + Thread.currentThread().getContextClassLoader());
         });
         
         thread.start();

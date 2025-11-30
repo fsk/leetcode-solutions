@@ -10,16 +10,16 @@ public class Thread12 {
     public static void main(String[] args) {
         Thread thread = new Thread(() -> {
             while (!Thread.currentThread().isInterrupted()) {
-                System.out.println("Thread çalışıyor");
+                System.out.println("Thread is running");
                 try {
                     Thread.sleep(1000);
                 } catch (InterruptedException e) {
-                    System.out.println("Thread kesintiye uğradı");
+                    System.out.println("Thread is interrupted");
                     Thread.currentThread().interrupt(); // Interrupt flag'ini tekrar set et
                     break;
                 }
             }
-            System.out.println("Thread sonlandı");
+            System.out.println("Thread is finished");
         });
         
         thread.start();
@@ -34,8 +34,8 @@ public class Thread12 {
 }
 
 // ÇIKTI:
-// "Thread çalışıyor" birkaç kez yazılır
-// "Thread kesintiye uğradı" yazılır
-// "Thread sonlandı" yazılır
+// "Thread is running" birkaç kez yazılır
+// "Thread is interrupted" yazılır
+// "Thread is finished" yazılır
 
 

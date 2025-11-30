@@ -21,13 +21,13 @@ public class Thread24 {
         Thread24 obj = new Thread24();
         
         Thread thread1 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 10; i++) {
                 obj.increment();
             }
         });
         
         Thread thread2 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
+            for (int i = 0; i < 10; i++) {
                 obj.increment();
             }
         });

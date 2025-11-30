@@ -27,11 +27,9 @@ public class Basic7 {
         int c = getInteger(); // Unboxing
         Integer d = getInteger(); // No unboxing
         
-        System.out.println("a: " + a + ", type: " + 
-            ((Object) a).getClass().getSimpleName());
+        System.out.println("a: " + a + ", type: " + ((Object) a).getClass().getSimpleName());
         System.out.println("b: " + b + ", type: " + b.getClass().getSimpleName());
-        System.out.println("c: " + c + ", type: " + 
-            ((Object) c).getClass().getSimpleName());
+        System.out.println("c: " + c + ", type: " + ((Object) c).getClass().getSimpleName());
         System.out.println("d: " + d + ", type: " + d.getClass().getSimpleName());
         
         System.out.println("getInteger2(): " + getInteger2());

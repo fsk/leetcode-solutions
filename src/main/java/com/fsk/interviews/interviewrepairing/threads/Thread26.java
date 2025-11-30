@@ -13,28 +13,28 @@ public class Thread26 {
     public static void main(String[] args) {
         Thread thread1 = new Thread(() -> {
             synchronized (lock1) {
-                System.out.println("Thread 1: lock1 aldı");
+                System.out.println("Thread 1: lock1 acquired");
                 try {
                     Thread.sleep(100);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
                 synchronized (lock2) {
-                    System.out.println("Thread 1: lock2 aldı");
+                    System.out.println("Thread 1: lock2 acquired");
                 }
             }
         });
         
         Thread thread2 = new Thread(() -> {
             synchronized (lock2) {
-                System.out.println("Thread 2: lock2 aldı");
+                System.out.println("Thread 2: lock2 acquired");
                 try {
                     Thread.sleep(100);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
                 synchronized (lock1) {
-                    System.out.println("Thread 2: lock1 aldı");
+                    System.out.println("Thread 2: lock1 acquired");
                 }
             }
         });
@@ -44,7 +44,7 @@ public class Thread26 {
         
         try {
             Thread.sleep(2000);
-            System.out.println("Program hala çalışıyor mu?");
+            System.out.println("Program is still running?");
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -52,9 +52,9 @@ public class Thread26 {
 }
 
 // ÇIKTI:
-// Thread 1: lock1 aldı
-// Thread 2: lock2 aldı
+// Thread 1: lock1 acquired
+// Thread 2: lock2 acquired
 // (Program takılır - deadlock)
-// Thread 1 lock2'yi bekliyor, Thread 2 lock1'i bekliyor
+// Thread 1 is waiting for lock2, Thread 2 is waiting for lock1
 
 

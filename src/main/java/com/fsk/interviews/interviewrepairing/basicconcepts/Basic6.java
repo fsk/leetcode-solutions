@@ -13,13 +13,11 @@ public class Basic6 {
         
         // Ternary with primitives
         int result1 = condition ? 10 : 20;
-        System.out.println("result1: " + result1 + ", type: " + 
-            ((Object) result1).getClass().getSimpleName());
+        System.out.println("result1: " + result1 + ", type: " + ((Object) result1).getClass().getSimpleName());
         
         // Ternary with mixed types
         Number result2 = condition ? 10 : 20.5; // int ve double
-        System.out.println("result2: " + result2 + ", type: " + 
-            result2.getClass().getSimpleName());
+        System.out.println("result2: " + result2 + ", type: " + result2.getClass().getSimpleName());
         
         // Ternary with null
         Integer result3 = condition ? null : 10;
@@ -27,13 +25,11 @@ public class Basic6 {
         
         // Ternary with autoboxing
         Integer result4 = condition ? 10 : 20; // Autoboxing
-        System.out.println("result4: " + result4 + ", type: " + 
-            result4.getClass().getSimpleName());
+        System.out.println("result4: " + result4 + ", type: " + result4.getClass().getSimpleName());
         
         // Ternary type inference trick
         Object result5 = condition ? new Integer(10) : new Double(20.5);
-        System.out.println("result5: " + result5 + ", type: " + 
-            result5.getClass().getSimpleName());
+        System.out.println("result5: " + result5 + ", type: " + result5.getClass().getSimpleName());
     }
 }
 

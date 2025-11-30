@@ -15,7 +15,7 @@ public class Thread27 {
                 // volatile olmasaydı, flag değeri cache'den okunabilirdi
                 // ve sonsuz döngüye girebilirdi
             }
-            System.out.println("Thread durdu");
+            System.out.println("Thread stopped");
         });
         
         thread.start();
@@ -23,7 +23,7 @@ public class Thread27 {
         try {
             Thread.sleep(1000);
             flag = false; // volatile sayesinde thread bu değişikliği görür
-            System.out.println("Flag false yapıldı");
+            System.out.println("Flag false set");
             thread.join();
         } catch (InterruptedException e) {
             e.printStackTrace();
@@ -33,8 +33,8 @@ public class Thread27 {
 
 // ÇIKTI:
 // (1 saniye bekler)
-// Flag false yapıldı
-// Thread durdu
-// volatile olmasaydı, thread flag değişikliğini görmeyebilirdi
+// Flag false set
+// Thread stopped
+// volatile olmasaydı, thread flag değişikliğini göremezdi
 
 

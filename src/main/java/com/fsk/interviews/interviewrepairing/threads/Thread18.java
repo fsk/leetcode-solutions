@@ -10,7 +10,7 @@ public class Thread18 {
     public static void main(String[] args) {
         // Stack size belirtilerek thread oluşturma
         Thread thread = new Thread(null, () -> {
-            System.out.println("Thread çalışıyor");
+            System.out.println("Thread is running");
             recursiveMethod(0);
         }, "MyThread", 1024 * 1024); // 1MB stack size
         
@@ -27,13 +27,13 @@ public class Thread18 {
         if (depth < 1000) {
             recursiveMethod(depth + 1);
         } else {
-            System.out.println("Recursion tamamlandı");
+            System.out.println("Recursion is finished");
         }
     }
 }
 
 // ÇIKTI:
-// Thread çalışıyor
-// Recursion tamamlandı
+// Thread is running
+// Recursion is finished
 
 

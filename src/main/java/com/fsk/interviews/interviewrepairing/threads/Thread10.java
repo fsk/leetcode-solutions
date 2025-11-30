@@ -11,7 +11,7 @@ public class Thread10 {
     public static void main(String[] args) {
         Thread daemonThread = new Thread(() -> {
             while (true) {
-                System.out.println("Daemon thread çalışıyor");
+                System.out.println("Daemon thread is running");
                 try {
                     Thread.sleep(500);
                 } catch (InterruptedException e) {
@@ -29,7 +29,7 @@ public class Thread10 {
             e.printStackTrace();
         }
         
-        System.out.println("Main thread bitti");
+        System.out.println("Main thread is finished");
     }
 }
 

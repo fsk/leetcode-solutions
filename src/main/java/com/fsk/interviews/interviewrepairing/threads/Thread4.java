@@ -8,11 +8,12 @@ package com.fsk.interviews.interviewrepairing.threads;
  */
 public class Thread4 {
     public static void main(String[] args) {
-        Thread thread1 = new Thread(() -> System.out.println(Thread.currentThread().getName()));
-        Thread thread2 = new Thread(() -> System.out.println(Thread.currentThread().getName()));
-        
-        thread1.setName("Thread-1");
-        thread2.setName("Thread-2");
+        Thread thread1 = new Thread(() -> System.out.println("Old Thread-1: " + Thread.currentThread().getName()));
+        Thread thread2 = new Thread(() -> System.out.println("Old Thread-2: " + Thread.currentThread().getName()));
+
+
+        thread1.setName("New Thread-1");
+        thread2.setName("New Thread-2");
         
         thread1.start();
         thread2.start();

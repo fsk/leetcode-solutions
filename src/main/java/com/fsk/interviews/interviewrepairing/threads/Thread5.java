@@ -17,6 +17,10 @@ public class Thread5 {
         
         System.out.println("2. start() called:");
         thread.start();
+
+        // Bir thread'i tekrar start() etmek hata verir
+        //System.out.println("3. start() called: ");
+        //thread.start();
     }
 }
 

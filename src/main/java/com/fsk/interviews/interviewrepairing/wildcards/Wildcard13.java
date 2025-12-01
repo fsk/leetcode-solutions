@@ -55,3 +55,5 @@ public class Wildcard13 {
 // Wildcard'ta multiple bound kullanılamaz, sadece type parameter'da kullanılabilir
 
 
+
+

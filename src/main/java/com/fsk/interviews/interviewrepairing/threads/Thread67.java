@@ -37,3 +37,5 @@ public class Thread67 {
 // Custom executor ile thread pool kontrolü yapabiliriz
 
 
+
+

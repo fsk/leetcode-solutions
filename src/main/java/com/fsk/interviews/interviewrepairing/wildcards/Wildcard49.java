@@ -63,3 +63,5 @@ public class Wildcard49 {
 // Her seviyede PECS pattern uygulanır
 
 
+
+

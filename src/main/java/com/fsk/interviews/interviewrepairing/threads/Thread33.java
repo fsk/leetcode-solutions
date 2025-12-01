@@ -70,3 +70,5 @@ public class Thread33 {
 // wait/notify ile senkronizasyon sağlanır
 
 
+
+

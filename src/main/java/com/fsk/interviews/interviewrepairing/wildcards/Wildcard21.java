@@ -46,3 +46,5 @@ public class Wildcard21 {
 // T'nin super type'ları yazılamaz
 
 
+
+

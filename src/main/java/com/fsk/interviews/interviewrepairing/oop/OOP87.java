@@ -67,3 +67,5 @@ public class OOP87 {
 // Varargs null handling dikkatli yapılmalı
 
 
+
+

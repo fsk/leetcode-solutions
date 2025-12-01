@@ -54,3 +54,5 @@ public class Thread81 {
 // Tüm task'lar paralel çalışır, hepsi bitene kadar bekler
 
 
+
+

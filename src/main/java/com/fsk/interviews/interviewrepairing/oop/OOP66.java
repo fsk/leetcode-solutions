@@ -54,3 +54,5 @@ public class OOP66 {
 // Static context'te polymorphism çalışmaz, instance context'te çalışır
 
 
+
+

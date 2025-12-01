@@ -43,3 +43,5 @@ public class OOP83 {
 // Her iki taraf null ise explicit cast gerekli
 
 
+
+

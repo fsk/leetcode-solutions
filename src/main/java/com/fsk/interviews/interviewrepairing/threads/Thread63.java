@@ -44,3 +44,5 @@ public class Thread63 {
 // İki future paralel çalışır, ikisi de bitince birleştirilir
 
 
+
+

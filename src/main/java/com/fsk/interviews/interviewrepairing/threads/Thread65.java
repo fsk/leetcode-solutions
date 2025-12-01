@@ -52,3 +52,5 @@ public class Thread65 {
 // Handle sonucu: Error: java.lang.RuntimeException: Test error
 
 
+
+

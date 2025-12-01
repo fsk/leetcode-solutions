@@ -46,3 +46,5 @@ public class Thread38 {
 // Thread 3 bariyerden sonra devam ediyor
 
 
+
+

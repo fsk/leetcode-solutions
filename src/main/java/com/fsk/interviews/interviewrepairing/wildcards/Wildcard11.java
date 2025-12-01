@@ -57,3 +57,5 @@ public class Wildcard11 {
 // Upper bounded wildcard tüm subclass'ları kabul eder
 
 
+
+

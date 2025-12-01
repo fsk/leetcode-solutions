@@ -51,3 +51,5 @@ public class OOP38 {
 // Functional interface tek abstract metod içerir, lambda ile kullanılır
 
 
+
+

@@ -46,3 +46,5 @@ public class Thread59 {
 // Custom ThreadFactory ile thread özelliklerini kontrol edebiliriz
 
 
+
+

@@ -40,3 +40,5 @@ public class Wildcard42 {
 // Function<? super T, ?> consumer super pattern
 
 
+
+

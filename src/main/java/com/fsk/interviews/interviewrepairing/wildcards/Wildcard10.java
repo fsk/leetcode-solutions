@@ -42,3 +42,5 @@ public class Wildcard10 {
 // Wildcard return type ile write işlemleri yapılamaz
 
 
+
+

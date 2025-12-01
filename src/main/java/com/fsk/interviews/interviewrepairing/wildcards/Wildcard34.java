@@ -54,3 +54,5 @@ public class Wildcard34 {
 // Hem producer hem consumer olan metodlarda her ikisi de kullanılır
 
 
+
+

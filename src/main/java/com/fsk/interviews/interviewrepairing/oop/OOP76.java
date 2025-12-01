@@ -66,3 +66,5 @@ public class OOP76 {
 // Constructor'da polimorfik metod çağrısı runtime tip'e göre çalışır
 
 
+
+

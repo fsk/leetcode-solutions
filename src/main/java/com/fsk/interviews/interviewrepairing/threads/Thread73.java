@@ -39,3 +39,5 @@ public class Thread73 {
 // collect() thread-safe, forEach() ile add() thread-safe değil
 
 
+
+

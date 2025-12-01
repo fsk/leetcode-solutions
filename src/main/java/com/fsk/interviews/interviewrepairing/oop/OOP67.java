@@ -51,3 +51,5 @@ public class OOP67 {
 // Inner class'ta polymorphism çalışır, outer class field'larına erişim var
 
 
+
+

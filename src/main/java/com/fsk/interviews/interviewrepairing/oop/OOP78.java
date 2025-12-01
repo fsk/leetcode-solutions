@@ -60,3 +60,5 @@ public class OOP78 {
 // Abstract metod öncelikli
 
 
+
+

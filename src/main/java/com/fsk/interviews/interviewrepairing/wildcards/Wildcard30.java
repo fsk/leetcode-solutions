@@ -47,3 +47,5 @@ public class Wildcard30 {
 // Iterator Object döner, remove() yapılabilir
 
 
+
+

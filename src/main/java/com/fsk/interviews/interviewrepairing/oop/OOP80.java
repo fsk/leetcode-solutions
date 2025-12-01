@@ -69,3 +69,5 @@ public class OOP80 {
 // Class concrete method en öncelikli, interface abstract method implement edilmeli
 
 
+
+

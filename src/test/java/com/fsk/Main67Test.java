@@ -1,5 +1,6 @@
 package com.fsk;
 
+import com.fsk.leetcodesolutions.Main67;
 import junit.framework.TestCase;
 
 public class Main67Test extends TestCase {

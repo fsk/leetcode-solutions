@@ -48,3 +48,5 @@ public class Thread35 {
 // put() ve take() thread-safe ve blocking'dir
 
 
+
+

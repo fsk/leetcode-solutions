@@ -61,3 +61,5 @@
 //// Static ve instance metod aynı signature'a sahip olabilir, farklı metodlardır
 //
 //
+
+

@@ -49,3 +49,5 @@ public class Wildcard24 {
 // T veya T'nin alt tipleri yazılabilir
 
 
+
+

@@ -48,3 +48,5 @@ public class OOP52 {
 // Null argümanı en genel tip olarak kabul edilir (Object)
 
 
+
+

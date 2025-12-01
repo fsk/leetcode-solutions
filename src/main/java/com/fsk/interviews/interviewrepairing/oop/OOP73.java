@@ -65,3 +65,5 @@ public class OOP73 {
 // super.method() chain'i yukarı doğru çağırır
 
 
+
+

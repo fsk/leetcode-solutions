@@ -53,3 +53,5 @@ public class OOP32 {
 // Abstract class ve interface metod çakışmasında override zorunlu
 
 
+
+

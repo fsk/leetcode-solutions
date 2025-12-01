@@ -55,3 +55,5 @@ public class Wildcard9 {
 // Element type kontrol edilebilir
 
 
+
+

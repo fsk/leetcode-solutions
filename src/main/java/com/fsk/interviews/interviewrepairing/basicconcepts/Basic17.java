@@ -68,3 +68,5 @@ public class Basic17 {
 // instanceof kontrolü casting'den önce yapılmalı
 
 
+
+

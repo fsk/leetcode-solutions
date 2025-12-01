@@ -50,3 +50,5 @@ public class OOP29 {
 // Method reference daha kısa ve okunabilir, lambda daha esnek
 
 
+
+

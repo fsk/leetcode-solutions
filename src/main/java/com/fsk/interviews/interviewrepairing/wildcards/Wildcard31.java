@@ -54,3 +54,5 @@ public class Wildcard31 {
 // PECS: Producer Extends - Veri üreten metodlarda ? extends T kullan
 
 
+
+

@@ -55,3 +55,5 @@ public class Wildcard19 {
 // Upper bounded wildcard ile equals, hashCode, contains kullanılabilir
 
 
+
+

@@ -61,3 +61,5 @@ public class Basic20 {
 // Covariant return type runtime'da doğru tip döner
 
 
+
+

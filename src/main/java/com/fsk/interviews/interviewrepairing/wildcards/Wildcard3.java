@@ -39,3 +39,5 @@ public class Wildcard3 {
 // T veya T'nin super type'larına yazılabilir
 
 
+
+

@@ -48,3 +48,5 @@ public class Wildcard43 {
 // Method reference ve lambda expressions çalışır
 
 
+
+

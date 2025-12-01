@@ -1,8 +1,7 @@
 package com.fsk;
 
+import com.fsk.leetcodesolutions.Main86;
 import org.junit.jupiter.api.Test;
-
-import java.util.Map;
 
 import static org.junit.jupiter.api.Assertions.*;
 

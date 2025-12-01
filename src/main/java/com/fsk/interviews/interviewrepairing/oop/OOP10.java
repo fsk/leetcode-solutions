@@ -55,3 +55,5 @@ public class OOP10 {
 // Daha genel exception fırlatamaz (checked exception için)
 
 
+
+

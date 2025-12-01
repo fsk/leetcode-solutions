@@ -44,3 +44,5 @@ public class OOP74 {
 // Interface method public olmalı, class method override edilmeli
 
 
+
+

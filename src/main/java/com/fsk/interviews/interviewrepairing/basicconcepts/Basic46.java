@@ -53,3 +53,5 @@ public class Basic46 {
 // Null casting mümkündür
 
 
+
+

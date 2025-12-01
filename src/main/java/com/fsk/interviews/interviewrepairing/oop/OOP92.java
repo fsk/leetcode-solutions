@@ -86,3 +86,5 @@ public class OOP92 {
 // Constructor chain'de her seviyede polimorfik metod çağrılır
 
 
+
+

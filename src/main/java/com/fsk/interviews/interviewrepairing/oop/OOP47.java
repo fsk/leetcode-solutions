@@ -48,3 +48,5 @@ public class OOP47 {
 // Inner class outer class'ın generic type'ını kullanır
 
 
+
+

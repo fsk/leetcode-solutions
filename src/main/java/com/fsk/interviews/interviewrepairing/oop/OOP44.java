@@ -49,3 +49,5 @@ public class OOP44 {
 // Shallow copy: Reference kopyalanır, deep copy: Object kopyalanır
 
 
+
+

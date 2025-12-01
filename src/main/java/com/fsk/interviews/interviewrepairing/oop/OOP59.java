@@ -46,3 +46,5 @@ public class OOP59 {
 // Short-circuit evaluation (&&) ile null check yapılabilir
 
 
+
+

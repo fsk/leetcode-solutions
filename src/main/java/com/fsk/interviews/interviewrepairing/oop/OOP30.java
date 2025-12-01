@@ -54,3 +54,5 @@ public class OOP30 {
 // instanceof runtime'da kontrol eder, cast compile-time'da kontrol edilmez
 
 
+
+

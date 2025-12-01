@@ -45,3 +45,5 @@ public class OOP40 {
 // Interface'de enum ve nested interface tanımlanabilir
 
 
+
+

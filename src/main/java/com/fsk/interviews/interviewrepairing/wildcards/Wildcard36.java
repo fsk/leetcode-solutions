@@ -50,3 +50,5 @@ public class Wildcard36 {
 // Type erasure nedeniyle ? extends ve ? super aynı signature'a sahip
 
 
+
+

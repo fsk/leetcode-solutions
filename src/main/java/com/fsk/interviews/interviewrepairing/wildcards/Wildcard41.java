@@ -52,3 +52,5 @@ public class Wildcard41 {
 // Upper bounded wildcard recursive bound ile çalışır
 
 
+
+

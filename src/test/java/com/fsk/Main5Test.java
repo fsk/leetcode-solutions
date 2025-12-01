@@ -1,5 +1,6 @@
 package com.fsk;
 
+import com.fsk.leetcodesolutions.Main5;
 import junit.framework.TestCase;
 import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;

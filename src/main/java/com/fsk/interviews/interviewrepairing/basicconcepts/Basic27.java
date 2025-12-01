@@ -52,3 +52,5 @@ public class Basic27 {
 // Runtime concatenation heap'te oluşturulur
 
 
+
+

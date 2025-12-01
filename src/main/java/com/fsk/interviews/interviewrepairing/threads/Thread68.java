@@ -49,3 +49,5 @@ public class Thread68 {
 // Exception yakalandı: Manual exception
 
 
+
+

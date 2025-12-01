@@ -65,3 +65,5 @@ public class Basic38 {
 // null instanceof her zaman false döner
 
 
+
+

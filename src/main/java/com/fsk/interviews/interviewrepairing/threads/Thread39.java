@@ -48,3 +48,5 @@ public class Thread39 {
 // İki thread verilerini değiş tokuş eder
 
 
+
+

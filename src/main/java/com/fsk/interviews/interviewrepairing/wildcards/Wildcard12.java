@@ -48,3 +48,5 @@ public class Wildcard12 {
 // Read işlemleri yapılabilir, write işlemleri yapılamaz
 
 
+
+

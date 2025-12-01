@@ -55,3 +55,5 @@ public class OOP33 {
 // Functional interface tek abstract metod içerir, lambda ile kullanılabilir
 
 
+
+

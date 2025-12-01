@@ -61,3 +61,5 @@ public class OOP37 {
 // Interface default method ve abstract class concrete method benzer ama farklı kullanım alanları var
 
 
+
+

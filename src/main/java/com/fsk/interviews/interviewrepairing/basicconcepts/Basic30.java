@@ -48,3 +48,5 @@ public class Basic30 {
 // Hash collision mümkündür (farklı string'ler aynı hashCode)
 
 
+
+

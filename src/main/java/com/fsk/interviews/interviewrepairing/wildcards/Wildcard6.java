@@ -44,3 +44,5 @@ public class Wildcard6 {
 // Çünkü exact subtype bilinmiyor, type safety korunamaz
 
 
+
+

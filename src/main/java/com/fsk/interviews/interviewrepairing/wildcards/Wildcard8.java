@@ -38,3 +38,5 @@ public class Wildcard8 {
 // Unbounded ve upper bounded wildcard'a null eklenemez (type safety)
 
 
+
+

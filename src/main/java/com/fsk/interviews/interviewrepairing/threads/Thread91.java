@@ -40,3 +40,5 @@ public class Thread91 {
 // Exception chain'i durdurur, exceptionally ile handle edilir
 
 
+
+

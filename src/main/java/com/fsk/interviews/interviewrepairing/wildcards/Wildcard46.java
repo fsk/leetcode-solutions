@@ -39,3 +39,5 @@ public class Wildcard46 {
 // Upper bounded wildcard exception hierarchy'de çalışır
 
 
+
+

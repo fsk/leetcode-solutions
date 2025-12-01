@@ -38,3 +38,5 @@ public class OOP28 {
 // Effectively final: Değeri hiç değiştirilmemiş variable
 
 
+
+

@@ -43,3 +43,5 @@ public class Basic26 {
 // Compiler compile-time concatenation'ı optimize eder
 
 
+
+

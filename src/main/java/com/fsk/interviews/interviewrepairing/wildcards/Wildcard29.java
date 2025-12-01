@@ -53,3 +53,5 @@ public class Wildcard29 {
 // Collection<?> parametreli metodlar kullanılabilir
 
 
+
+

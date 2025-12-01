@@ -45,3 +45,5 @@ public class OOP49 {
 // Circular dependency initialization sırasında çözülür, her class bir kez initialize edilir
 
 
+
+

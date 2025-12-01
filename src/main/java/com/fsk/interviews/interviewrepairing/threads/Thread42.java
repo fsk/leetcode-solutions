@@ -42,3 +42,5 @@ public class Thread42 {
 // get() metodu blocking'dir, sonuç gelene kadar bekler
 
 
+
+

@@ -51,3 +51,5 @@ public class Basic18 {
 // Primitive array Object[] değildir
 
 
+
+

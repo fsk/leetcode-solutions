@@ -122,3 +122,5 @@ public class OOP99 {
 // Deep inheritance chain'de her seviyede polimorfik metod çağrılır
 
 
+
+

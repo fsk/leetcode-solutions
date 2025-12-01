@@ -35,3 +35,5 @@ public class Thread84 {
 // Thread'ler önceden başlatıldığı için ilk task'lar daha hızlı çalışır
 
 
+
+

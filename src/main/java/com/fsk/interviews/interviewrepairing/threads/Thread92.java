@@ -43,3 +43,5 @@ public class Thread92 {
 // İki future'in sonuçlarını birlikte işler, ikisi de bitene kadar bekler
 
 
+
+

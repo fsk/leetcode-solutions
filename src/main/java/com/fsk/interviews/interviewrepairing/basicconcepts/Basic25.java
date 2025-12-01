@@ -42,3 +42,5 @@ public class Basic25 {
 // intern() pool'a ekler
 
 
+
+

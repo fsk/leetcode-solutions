@@ -46,3 +46,5 @@ public class OOP45 {
 // Enum'lar interface implement edebilir, her enum constant farklı implementasyon yapabilir
 
 
+
+

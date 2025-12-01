@@ -58,3 +58,5 @@ public class OOP63 {
 // Class method interface default method'u override eder
 
 
+
+

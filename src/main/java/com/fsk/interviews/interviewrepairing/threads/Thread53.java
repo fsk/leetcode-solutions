@@ -51,3 +51,5 @@ public class Thread53 {
 // Task C (main thread'de çalışır)
 
 
+
+

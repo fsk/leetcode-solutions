@@ -60,3 +60,5 @@ public class OOP95 {
 // Polymorphism array element'lerinde çalışır
 
 
+
+

@@ -47,3 +47,5 @@ public class OOP41 {
 // Type erasure: Generic type bilgisi compile-time'da kaybolur, runtime'da yoktur
 
 
+
+

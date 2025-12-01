@@ -68,3 +68,5 @@ public class OOP94 {
 // Null return eden metodlar override edilebilir, null check gerekli
 
 
+
+

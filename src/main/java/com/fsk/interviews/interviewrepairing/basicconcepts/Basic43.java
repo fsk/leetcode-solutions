@@ -52,3 +52,5 @@ public class Basic43 {
 // intern() pool'a ekler ve pool'dan döner
 
 
+
+

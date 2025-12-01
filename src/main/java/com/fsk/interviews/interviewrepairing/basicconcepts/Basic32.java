@@ -62,3 +62,5 @@ public class Basic32 {
 // Short-circuit evaluation performans ve güvenlik için önemlidir
 
 
+
+

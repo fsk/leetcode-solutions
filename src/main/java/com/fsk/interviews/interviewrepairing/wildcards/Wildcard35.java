@@ -49,3 +49,5 @@ public class Wildcard35 {
 // Bu sayede write işlemleri yapılabilir
 
 
+
+

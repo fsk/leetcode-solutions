@@ -63,3 +63,5 @@ public class Thread47 {
 // ForkJoinPool work-stealing algoritması kullanır
 
 
+
+

@@ -47,3 +47,5 @@ public class Thread49 {
 // veya exception fırlatılır (policy'ye göre)
 
 
+
+

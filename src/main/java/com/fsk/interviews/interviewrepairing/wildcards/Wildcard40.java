@@ -57,3 +57,5 @@ public class Wildcard40 {
 // Her seviyede read-only, write yapılamaz
 
 
+
+

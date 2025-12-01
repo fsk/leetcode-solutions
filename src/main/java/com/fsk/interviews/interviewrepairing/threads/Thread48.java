@@ -49,3 +49,5 @@ public class Thread48 {
 // Her thread kendi değerini görür, diğerlerini görmez
 
 
+
+

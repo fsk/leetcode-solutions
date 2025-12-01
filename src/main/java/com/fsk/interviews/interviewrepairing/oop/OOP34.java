@@ -53,3 +53,5 @@ public class OOP34 {
 // Private metodlar interface içinde code reuse için kullanılır
 
 
+
+

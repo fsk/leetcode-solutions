@@ -63,3 +63,5 @@ public class Thread34 {
 // (Thread timeout'tan sonra çıkar, notify gelmeden önce)
 
 
+
+

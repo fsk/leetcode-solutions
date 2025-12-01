@@ -51,3 +51,5 @@ public class Basic34 {
 // Nested ternary okunabilirliği azaltır
 
 
+
+

@@ -52,3 +52,5 @@ public class Basic16 {
 // Float to int truncation yapılır, rounding değil
 
 
+
+

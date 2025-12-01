@@ -53,3 +53,5 @@ public class Thread71 {
 // Work-stealing sayesinde thread'ler birbirinin işini çalabilir
 
 
+
+

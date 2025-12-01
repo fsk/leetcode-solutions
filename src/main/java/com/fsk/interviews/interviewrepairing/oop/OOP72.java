@@ -45,3 +45,5 @@ public class OOP72 {
 // Class concrete method interface default method'u override eder
 
 
+
+

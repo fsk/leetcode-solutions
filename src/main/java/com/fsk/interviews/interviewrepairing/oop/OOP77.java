@@ -38,3 +38,5 @@ public class OOP77 {
 // Abstract metod implement edilmeli
 
 
+
+

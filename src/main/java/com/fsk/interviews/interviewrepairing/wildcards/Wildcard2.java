@@ -43,3 +43,5 @@ public class Wildcard2 {
 // Write işlemleri yapılamaz çünkü exact subtype bilinmiyor
 
 
+
+

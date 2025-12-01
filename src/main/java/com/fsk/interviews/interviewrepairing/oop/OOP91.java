@@ -53,3 +53,5 @@ public class OOP91 {
 // Null resolution compile-time'da yapılır, polymorphism runtime'da
 
 
+
+

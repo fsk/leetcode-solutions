@@ -66,3 +66,5 @@ public class OOP61 {
 // Field'lar compile-time tip'e göre, metodlar runtime tip'e göre çalışır
 
 
+
+

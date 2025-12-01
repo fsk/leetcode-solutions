@@ -55,3 +55,5 @@ public class Thread80 {
 // Data size ve işlem karmaşıklığına bağlı
 
 
+
+

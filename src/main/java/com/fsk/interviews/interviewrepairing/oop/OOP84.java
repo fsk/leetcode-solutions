@@ -50,3 +50,5 @@ public class OOP84 {
 // Reflection ile runtime'da metod çağrılabilir, polymorphism çalışır
 
 
+
+

@@ -41,3 +41,5 @@ public class Wildcard4 {
 // Type parameter write işlemleri yapabilir, wildcard yapamaz
 
 
+
+

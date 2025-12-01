@@ -52,3 +52,5 @@ public class OOP58 {
 // Ternary operator'da null type inference'ı etkiler
 
 
+
+

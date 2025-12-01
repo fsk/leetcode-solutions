@@ -45,3 +45,5 @@ public class Wildcard47 {
 // T veya T'nin super type'ları kabul edilir
 
 
+
+

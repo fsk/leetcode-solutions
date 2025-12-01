@@ -43,3 +43,5 @@ public class OOP43 {
 // Reflection ile private ve final field'lara erişilebilir ama önerilmez
 
 
+
+

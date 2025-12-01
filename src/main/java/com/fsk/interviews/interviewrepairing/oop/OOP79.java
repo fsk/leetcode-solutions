@@ -81,3 +81,5 @@ public class OOP79 {
 // Önce static (parent->child), sonra instance (parent->child), sonra constructor (parent->child)
 
 
+
+

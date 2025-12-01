@@ -61,3 +61,5 @@ public class Basic39 {
 // Float ve double karşılaştırması dikkatli yapılmalı
 
 
+
+

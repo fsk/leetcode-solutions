@@ -1,5 +1,6 @@
 package com.fsk;
 
+import com.fsk.leetcodesolutions.Main4;
 import junit.framework.TestCase;
 import org.junit.Test;
 

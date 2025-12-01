@@ -58,3 +58,5 @@ public class OOP50 {
 // Her class tek bir parent'tan extend eder, method resolution basittir
 
 
+
+

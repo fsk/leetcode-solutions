@@ -55,3 +55,5 @@ public class OOP70 {
 // Final metodlar polymorphism'i etkilemez, her zaman aynı metod çağrılır
 
 
+
+

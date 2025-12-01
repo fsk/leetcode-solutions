@@ -37,3 +37,5 @@ public class Thread30 {
 // Bir thread bitince, bekleyen thread'lerden biri çalışmaya başlar
 
 
+
+

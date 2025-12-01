@@ -43,3 +43,5 @@ public class Wildcard1 {
 // Read-only işlemler için uygundur, write işlemleri yapılamaz
 
 
+
+

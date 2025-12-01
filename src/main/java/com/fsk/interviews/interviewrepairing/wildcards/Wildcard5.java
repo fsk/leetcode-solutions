@@ -51,3 +51,5 @@ public class Wildcard5 {
 // Wildcard ile read işlemleri yapılabilir, write işlemleri yapılamaz
 
 
+
+

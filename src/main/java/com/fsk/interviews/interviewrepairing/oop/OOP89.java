@@ -64,3 +64,5 @@ public class OOP89 {
 // Null field initialization mümkün, null check gerekli
 
 
+
+

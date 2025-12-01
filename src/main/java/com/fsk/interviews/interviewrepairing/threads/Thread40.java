@@ -50,3 +50,5 @@ public class Thread40 {
 // Tüm thread'ler aynı fazda ilerler
 
 
+
+

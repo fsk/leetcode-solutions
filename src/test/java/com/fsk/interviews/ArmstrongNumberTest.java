@@ -1,6 +1,5 @@
 package com.fsk.interviews;
 
-import com.fsk.Main4;
 import junit.framework.TestCase;
 import org.junit.Test;
 

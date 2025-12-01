@@ -65,3 +65,5 @@ public class Basic42 {
 // instanceof kontrolü ile safe casting yapılmalı
 
 
+
+

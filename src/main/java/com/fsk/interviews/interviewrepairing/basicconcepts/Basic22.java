@@ -43,3 +43,5 @@ public class Basic22 {
 // final variable compile-time constant olarak kabul edilir
 
 
+
+

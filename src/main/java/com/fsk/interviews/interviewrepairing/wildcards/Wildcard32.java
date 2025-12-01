@@ -46,3 +46,5 @@ public class Wildcard32 {
 // PECS: Consumer Super - Veri tüketen metodlarda ? super T kullan
 
 
+
+

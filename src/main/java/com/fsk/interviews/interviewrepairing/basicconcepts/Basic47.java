@@ -75,3 +75,5 @@ public class Basic47 {
 // Null ambiguity multiple reference types arasında oluşur
 
 
+
+

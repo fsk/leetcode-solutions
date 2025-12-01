@@ -46,3 +46,5 @@ public class Wildcard26 {
 // T veya T'nin alt tipleri set edilebilir
 
 
+
+

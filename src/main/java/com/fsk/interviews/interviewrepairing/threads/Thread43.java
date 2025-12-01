@@ -20,9 +20,7 @@ public class Thread43 {
         }, 2, TimeUnit.SECONDS);
         
         // Her 1 saniyede bir çalış (3 kez)
-        scheduler.scheduleAtFixedRate(() -> {
-            System.out.println("Periyodik task çalıştı");
-        }, 0, 1, TimeUnit.SECONDS);
+        scheduler.scheduleAtFixedRate(() -> System.out.println("Periyodik task çalıştı"), 0, 1, TimeUnit.SECONDS);
         
         try {
             Thread.sleep(5000);
@@ -41,5 +39,7 @@ public class Thread43 {
 // Periyodik task çalıştı (2 saniye sonra)
 // Periyodik task çalıştı (3 saniye sonra)
 // ...
+
+
 
 

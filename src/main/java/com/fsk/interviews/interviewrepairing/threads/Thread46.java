@@ -61,3 +61,5 @@ public class Thread46 {
 // Writer yazarken yeni bir array oluşturur
 
 
+
+

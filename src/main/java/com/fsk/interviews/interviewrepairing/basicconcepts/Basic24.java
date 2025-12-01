@@ -50,3 +50,5 @@ public class Basic24 {
 // Reference değişmez, yeni object oluşturulur
 
 
+
+

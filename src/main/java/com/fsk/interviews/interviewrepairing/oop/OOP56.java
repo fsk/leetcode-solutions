@@ -50,3 +50,5 @@ public class OOP56 {
 // Metodlar null return edebilir, null check yapılmalı
 
 
+
+

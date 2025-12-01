@@ -1,6 +1,6 @@
 package com.fsk.starpatterns;
 
-import com.fsk.Main74;
+import com.fsk.leetcodesolutions.Main74;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

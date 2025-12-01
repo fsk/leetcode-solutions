@@ -50,3 +50,5 @@ public class Wildcard20 {
 // Bazıları exact type gerektirir
 
 
+
+

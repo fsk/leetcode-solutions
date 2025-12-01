@@ -38,3 +38,5 @@ public class Thread74 {
 // Parallel stream custom pool'u kullanır
 
 
+
+

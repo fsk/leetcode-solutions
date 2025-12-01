@@ -54,3 +54,5 @@ public class Wildcard22 {
 // Lower bounded wildcard ile read işlemleri sadece Object olarak yapılabilir
 
 
+
+

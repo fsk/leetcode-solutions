@@ -40,3 +40,5 @@ public class OOP35 {
 // Abstract class'ta final metod olabilir ama final abstract olamaz
 
 
+
+

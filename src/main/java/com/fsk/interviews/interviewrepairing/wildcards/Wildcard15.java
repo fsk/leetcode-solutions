@@ -48,3 +48,5 @@ public class Wildcard15 {
 // instanceof kontrolü ile safe casting yapılmalı
 
 
+
+

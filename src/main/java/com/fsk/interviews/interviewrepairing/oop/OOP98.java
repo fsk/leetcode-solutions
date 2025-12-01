@@ -59,3 +59,5 @@ public class OOP98 {
 // Reflection ile runtime'da metod çağrılır, polymorphism çalışır
 
 
+
+

@@ -38,3 +38,5 @@
 //// Null instanceof her zaman false döner
 //
 //
+
+

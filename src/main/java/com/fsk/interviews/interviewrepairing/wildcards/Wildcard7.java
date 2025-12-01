@@ -49,3 +49,5 @@ public class Wildcard7 {
 // Read işlemleri sadece Object olarak yapılabilir
 
 
+
+

@@ -67,3 +67,5 @@ public class Thread36 {
 // Condition, Lock ile birlikte kullanılır
 
 
+
+

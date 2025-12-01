@@ -44,3 +44,5 @@ public class Thread79 {
 // Parallel stream custom pool'un parallelism'ini kullanır
 
 
+
+

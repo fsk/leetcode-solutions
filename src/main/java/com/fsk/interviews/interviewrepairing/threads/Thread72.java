@@ -43,3 +43,5 @@ public class Thread72 {
 // Parallel stream ForkJoinPool kullanır
 
 
+
+

@@ -33,3 +33,5 @@ public class Thread96 {
 // allOf tüm future'lerin bitmesini bekler, sonra sonuçları toplar
 
 
+
+

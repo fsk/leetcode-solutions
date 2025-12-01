@@ -42,3 +42,5 @@ public class Thread86 {
 // allowCoreThreadTimeOut(false) olsaydı, core thread'ler açık kalırdı
 
 
+
+

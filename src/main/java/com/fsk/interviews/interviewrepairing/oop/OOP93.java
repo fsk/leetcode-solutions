@@ -68,3 +68,5 @@ public class OOP93 {
 // Interface diamond problem override ile çözülür
 
 
+
+

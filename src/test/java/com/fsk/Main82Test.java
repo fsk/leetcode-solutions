@@ -1,5 +1,6 @@
 package com.fsk;
 
+import com.fsk.leetcodesolutions.Main82;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 

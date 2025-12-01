@@ -59,3 +59,5 @@ public class Thread32 {
 // Thread 3 uyandı (sıra garanti değil)
 
 
+
+

@@ -52,3 +52,5 @@ public class Wildcard18 {
 // Generic method exact type bilir, wildcard bilmez
 
 
+
+

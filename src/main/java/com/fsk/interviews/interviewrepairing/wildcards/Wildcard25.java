@@ -46,3 +46,5 @@ public class Wildcard25 {
 // remove(Object) ve remove(int) kullanılabilir
 
 
+
+

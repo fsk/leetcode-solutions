@@ -43,3 +43,5 @@ public class Thread70 {
 // thenApply aynı thread'de, thenApplyAsync farklı thread'de çalışır
 
 
+
+

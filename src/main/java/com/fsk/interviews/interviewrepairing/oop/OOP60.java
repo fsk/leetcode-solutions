@@ -43,3 +43,5 @@ public class OOP60 {
 // Varargs'a null geçilebilir, null array vs null element farklıdır
 
 
+
+

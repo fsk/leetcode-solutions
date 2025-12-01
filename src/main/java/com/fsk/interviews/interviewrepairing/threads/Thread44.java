@@ -40,3 +40,5 @@ public class Thread44 {
 // CompletableFuture chain'lenebilir ve asenkron çalışır
 
 
+
+

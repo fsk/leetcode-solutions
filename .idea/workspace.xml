@@ -5,228 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09e12e1c-3c99-44e5-af18-04352b02de30" name="Changes" comment="Threads">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/Main3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/Main4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLock.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/denemeler/threaddenemeler/reentrantlock/ReentrantLockExample9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/io/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/io/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/io/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/io/project1/LogRotator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/fsk/leetcodesolutions/Main100Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/basicconcepts/Basic49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP100.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP54.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP54.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP77.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP77.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP87.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP89.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP90.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP91.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP93.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP97.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP99.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/oop/OOP99.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread45.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread50.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread50.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread52.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread53.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread53.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread56.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread56.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread58.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread58.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread59.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread59.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread60.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread60.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread62.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread62.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread65.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread66.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread66.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread67.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread67.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread68.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread68.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread71.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread71.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread72.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread73.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread73.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread76.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread82.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread82.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread84.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread84.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread85.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread85.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread87.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread87.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread89.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread89.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread90.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread91.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread92.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread92.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread93.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread94.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread94.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread95.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread95.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread96.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread97.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread97.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread98.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/threads/Thread98.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard40.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard41.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard43.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard43.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard44.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard46.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard46.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard47.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard48.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/interviews/interviewrepairing/wildcards/Wildcard9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -258,6 +48,7 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.15-tem/lib/src.zip!/java.base/java/io/File.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.15-tem/lib/src.zip!/java.base/java/lang/Integer.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.15-tem/lib/src.zip!/java.base/java/lang/Math.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/.sdkman/candidates/java/17.0.15-tem/lib/src.zip!/java.base/java/util/BitSet.java" root0="SKIP_INSPECTION" />
@@ -271,141 +62,147 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ArmstrongNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BST.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Binary.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.DenemeMain1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Graph.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GraphClassWithNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interview3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java13 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Java13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedListNode.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main11 (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main11 (3).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main11 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main11 (5).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main11.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main16.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main66.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main67.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main69.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main76.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main77.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main78.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main79.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main80.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main81.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main82.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main83.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main89 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main89 (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main89 (3).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main89 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main89 (5).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main89.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main90.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main91.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main95.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Main96.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main97.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main98.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main99.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.Mainnnn.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MergeSort.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.OOP1 (1).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.OOP1 (2).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.OOP1 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.OOP1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pattern7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PerfectNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PythagorasTriples.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Question3.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.ReentrantLockExample2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Silinecek.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.Main4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.stack.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.threaddenemeler.racecondition.Main2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.denemeler.tree.Main.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.com.fsk.interviews.interviewrepairing.Main1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.interviews.interviewrepairing.Main1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main66Test.testReverseBit2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main67Test.testConstructor4.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.addStrings.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test2.executor&quot;: &quot;Debug&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main69Test.thirdMax_test4.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main70Test.hammingWeight_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main71Test.reverseVowels.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main71Test.reverseVowels_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main73Test.relativeSortArray.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main82Test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main82Test.smallestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main86Test.getSneakyNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main87Test.maximumWealth.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Main91Test.findNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question1Test.twoSum.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question1Test.twoSum2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails_Test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question2Test.numUniqueEmails_Test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test2.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test3.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Question3Test.missingNumber_test4.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.LeetCode [clean].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/fsk/Desktop/coding/leetcode-solutions&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ArmstrongNumber.executor": "Run",
+    "Application.BST.executor": "Run",
+    "Application.Binary.executor": "Debug",
+    "Application.DenemeMain1.executor": "Run",
+    "Application.Graph.executor": "Run",
+    "Application.GraphClassWithNode.executor": "Run",
+    "Application.Interview3.executor": "Run",
+    "Application.Java13 (1).executor": "Debug",
+    "Application.Java13.executor": "Run",
+    "Application.LinkedListNode.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main1.executor": "Run",
+    "Application.Main101.executor": "Run",
+    "Application.Main102.executor": "Run",
+    "Application.Main11 (1).executor": "Debug",
+    "Application.Main11 (2).executor": "Debug",
+    "Application.Main11 (3).executor": "Debug",
+    "Application.Main11 (4).executor": "Run",
+    "Application.Main11 (5).executor": "Debug",
+    "Application.Main11.executor": "Debug",
+    "Application.Main13.executor": "Run",
+    "Application.Main16.executor": "Debug",
+    "Application.Main2.executor": "Run",
+    "Application.Main3.executor": "Run",
+    "Application.Main4.executor": "Run",
+    "Application.Main66.executor": "Debug",
+    "Application.Main67.executor": "Debug",
+    "Application.Main69.executor": "Run",
+    "Application.Main76.executor": "Run",
+    "Application.Main77.executor": "Run",
+    "Application.Main78.executor": "Debug",
+    "Application.Main79.executor": "Debug",
+    "Application.Main8.executor": "Debug",
+    "Application.Main80.executor": "Run",
+    "Application.Main81.executor": "Debug",
+    "Application.Main82.executor": "Run",
+    "Application.Main83.executor": "Run",
+    "Application.Main89 (1).executor": "Debug",
+    "Application.Main89 (2).executor": "Debug",
+    "Application.Main89 (3).executor": "Debug",
+    "Application.Main89 (4).executor": "Run",
+    "Application.Main89 (5).executor": "Debug",
+    "Application.Main89.executor": "Debug",
+    "Application.Main90.executor": "Run",
+    "Application.Main91.executor": "Run",
+    "Application.Main95.executor": "Debug",
+    "Application.Main96.executor": "Run",
+    "Application.Main97.executor": "Run",
+    "Application.Main98.executor": "Run",
+    "Application.Main99.executor": "Debug",
+    "Application.Mainnnn.executor": "Run",
+    "Application.MergeSort.executor": "Debug",
+    "Application.OOP1 (1).executor": "Debug",
+    "Application.OOP1 (2).executor": "Debug",
+    "Application.OOP1 (3).executor": "Run",
+    "Application.OOP1.executor": "Run",
+    "Application.Pattern1.executor": "Run",
+    "Application.Pattern2.executor": "Run",
+    "Application.Pattern3.executor": "Run",
+    "Application.Pattern4.executor": "Run",
+    "Application.Pattern5.executor": "Run",
+    "Application.Pattern6.executor": "Run",
+    "Application.Pattern7.executor": "Run",
+    "Application.PerfectNumber.executor": "Run",
+    "Application.PythagorasTriples.executor": "Run",
+    "Application.Question3.executor": "Debug",
+    "Application.ReentrantLockExample2.executor": "Run",
+    "Application.Silinecek.executor": "Run",
+    "Application.com.fsk.denemeler.Main (1).executor": "Run",
+    "Application.com.fsk.denemeler.Main.executor": "Run",
+    "Application.com.fsk.denemeler.Main3.executor": "Run",
+    "Application.com.fsk.denemeler.Main4.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main.executor": "Run",
+    "Application.com.fsk.denemeler.stack.Main1.executor": "Run",
+    "Application.com.fsk.denemeler.threaddenemeler.racecondition.Main2.executor": "Run",
+    "Application.com.fsk.denemeler.tree.Main.executor": "Debug",
+    "Application.com.fsk.interviews.interviewrepairing.Main1 (1).executor": "Run",
+    "Application.com.fsk.interviews.interviewrepairing.Main1.executor": "Run",
+    "Application.com.fsk.youtube.twopointertechnique.codings.q3.Main.executor": "Run",
+    "JUnit.Main100Test.longestCommonPrefix.executor": "Run",
+    "JUnit.Main66Test.executor": "Run",
+    "JUnit.Main66Test.testReverseBit.executor": "Run",
+    "JUnit.Main66Test.testReverseBit2.executor": "Run",
+    "JUnit.Main67Test.testConstructor4.executor": "Run",
+    "JUnit.Main69Test.addStrings.executor": "Run",
+    "JUnit.Main69Test.thirdMax.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test2.executor": "Debug",
+    "JUnit.Main69Test.thirdMax_test3.executor": "Run",
+    "JUnit.Main69Test.thirdMax_test4.executor": "Run",
+    "JUnit.Main70Test.hammingWeight.executor": "Run",
+    "JUnit.Main70Test.hammingWeight_test2.executor": "Run",
+    "JUnit.Main70Test.hammingWeight_test3.executor": "Run",
+    "JUnit.Main71Test.reverseVowels.executor": "Run",
+    "JUnit.Main71Test.reverseVowels_test2.executor": "Run",
+    "JUnit.Main73Test.relativeSortArray.executor": "Run",
+    "JUnit.Main82Test.executor": "Run",
+    "JUnit.Main82Test.smallestNumber.executor": "Run",
+    "JUnit.Main86Test.getSneakyNumbers.executor": "Run",
+    "JUnit.Main87Test.maximumWealth.executor": "Run",
+    "JUnit.Main91Test.findNumbers.executor": "Run",
+    "JUnit.Question1Test.twoSum.executor": "Run",
+    "JUnit.Question1Test.twoSum2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test2.executor": "Run",
+    "JUnit.Question2Test.numUniqueEmails_Test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test2.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test3.executor": "Run",
+    "JUnit.Question3Test.missingNumber_test4.executor": "Run",
+    "Maven.LeetCode [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/fsk/Desktop/coding/leetcode-solutions",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;JSON&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT",
+      "JSON"
     ],
-    &quot;stardust.markdown.MarkdownSplitEditorSuppressor:keyList&quot;: []
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": []
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -416,19 +213,20 @@
       <recent name="com.fsk.interviews" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.fsk.leetcodesolutions" />
       <recent name="com.fsk" />
       <recent name="com.fsk.youtube" />
       <recent name="com.fsk.starpatterns" />
       <recent name="com.fsk.interviews.adobe" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.fsk.denemeler.Main4">
-    <configuration name="Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main3" />
+  <component name="RunManager" selected="Application.Main102">
+    <configuration name="Main101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.leetcodesolutions.Main101" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
+          <option name="PATTERN" value="com.fsk.leetcodesolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.racecondition.Main4" />
+    <configuration name="Main102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.leetcodesolutions.Main102" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.racecondition.*" />
+          <option name="PATTERN" value="com.fsk.leetcodesolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -449,12 +247,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantLockExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.threaddenemeler.reentrantlock.ReentrantLockExample2" />
+    <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.io.Main2" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.threaddenemeler.reentrantlock.*" />
+          <option name="PATTERN" value="com.fsk.io.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,12 +260,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.fsk.denemeler.Main3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.Main3" />
+    <configuration name="Main8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fsk.leetcodesolutions.Main8" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.*" />
+          <option name="PATTERN" value="com.fsk.leetcodesolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -475,34 +273,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.fsk.denemeler.Main4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fsk.denemeler.Main4" />
+    <configuration name="Main100Test.longestCommonPrefix" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fsk.denemeler.*" />
+          <option name="PATTERN" value="com.fsk.leetcodesolutions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.fsk.leetcodesolutions" />
+      <option name="MAIN_CLASS_NAME" value="com.fsk.leetcodesolutions.Main100Test" />
+      <option name="METHOD_NAME" value="longestCommonPrefix" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.fsk.denemeler.Main4" />
-        <item itemvalue="Application.com.fsk.denemeler.Main3" />
-        <item itemvalue="Application.ReentrantLockExample2" />
-        <item itemvalue="Application.Main4" />
-        <item itemvalue="Application.Main3" />
+        <item itemvalue="Application.Main102" />
+        <item itemvalue="Application.Main101" />
+        <item itemvalue="JUnit.Main100Test.longestCommonPrefix" />
+        <item itemvalue="Application.Main8" />
+        <item itemvalue="Application.Main2" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
-        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+        <option value="bundled-jdk-30f59d01ecdd-cffe25b9f5b3-intellij.indexing.shared.core-IU-253.28294.334" />
+        <option value="bundled-js-predefined-d6986cc7102b-c7e53b3be11b-JavaScript-IU-253.28294.334" />
       </set>
     </attachedChunks>
   </component>
@@ -569,6 +370,12 @@
       <workItem from="1764527672333" duration="296000" />
       <workItem from="1764531189899" duration="1571000" />
       <workItem from="1764552276630" duration="49000" />
+      <workItem from="1764624870750" duration="3591000" />
+      <workItem from="1764659791280" duration="6756000" />
+      <workItem from="1765193852652" duration="3704000" />
+      <workItem from="1765202412743" duration="11000" />
+      <workItem from="1765208675603" duration="3219000" />
+      <workItem from="1765399736715" duration="1952000" />
     </task>
     <task id="LOCAL-00001" summary="algoritma poc">
       <option name="closed" value="true" />
@@ -612,7 +419,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main63.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main63.java</url>
           <line>17</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
@@ -627,7 +434,7 @@
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main16.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main16.java</url>
           <line>79</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -647,32 +454,32 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main71.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main71.java</url>
           <line>17</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main78.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main78.java</url>
           <line>38</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/fsk/Main86Test.java</url>
-          <line>17</line>
+          <line>16</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main96.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main96.java</url>
           <line>24</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main96.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main96.java</url>
           <line>22</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/Main97.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/fsk/leetcodesolutions/Main97.java</url>
           <line>23</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>

@@ -10,7 +10,7 @@ public class BinarySearchRecursive {
 
     }
 
-    public static int searchRecursive(int nums[], int target, int lowIndex, int highIndex) {
+    public static int searchRecursive(int[] nums, int target, int lowIndex, int highIndex) {
 
         int middle = lowIndex + ((highIndex - lowIndex) / 2);
 

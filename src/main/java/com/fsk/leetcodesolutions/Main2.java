@@ -4,6 +4,7 @@ public class Main2 {
 
     public static void main(String[] args) {
         System.out.println(isPalindrome(121));
+        System.out.println(isPalindrome(123));
     }
 
     public static boolean isPalindrome(int x) {

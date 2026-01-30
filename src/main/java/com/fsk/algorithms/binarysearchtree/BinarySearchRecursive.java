@@ -25,5 +25,4 @@ public class BinarySearchRecursive {
         }else return searchRecursive(nums, target, middle + 1, highIndex);
 
     }
-
 }

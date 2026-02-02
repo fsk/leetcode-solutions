@@ -2,11 +2,8 @@ package com.fsk.binarysearchtree.bstleetcodesolutions;
 
 import com.fsk.binarysearchtree.BinarySearchTree;
 
-import java.sql.ClientInfoStatus;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 
 // LeetCode 700
 public class Main1 {

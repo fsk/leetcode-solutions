@@ -1,4 +1,4 @@
-package com.fsk.quest;
+package com.fsk.quest.arrays;
 
 // LeetCode -> Quest1. Concatenation of Array
 

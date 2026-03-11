@@ -2,6 +2,8 @@ package com.fsk.leetcodesolutions;
 
 public class Main90 {
 
+    // LeetCode -> Max Consecutive Ones
+
     public static void main(String[] args) {
 
         System.out.println(findMaxConsecutiveOnes(new int[]{1,1,1, 1, 0,1,1,1}));

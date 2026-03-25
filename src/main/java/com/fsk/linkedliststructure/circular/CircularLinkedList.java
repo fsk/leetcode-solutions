@@ -1,4 +1,4 @@
-package com.fsk.denemeler.linkedliststructure.circular;
+package com.fsk.linkedliststructure.circular;
 
 class MyNode {
     int data;

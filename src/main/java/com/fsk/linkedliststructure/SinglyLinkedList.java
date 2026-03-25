@@ -1,4 +1,4 @@
-package com.fsk.denemeler.linkedliststructure;
+package com.fsk.linkedliststructure;
 
 class MyNode {
     int data; // Düğümün içereceği veri

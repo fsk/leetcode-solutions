@@ -11,7 +11,8 @@ public class Main15 {
 
     public static void main(String[] args) {
 
-        System.out.println(addDigits2(456));
+        //System.out.println(addDigits2(456));
+        System.out.println(addDigits3(456));
 
 
     }
@@ -32,7 +33,24 @@ public class Main15 {
     }
 
     public static int addDigits2(int num) {
-
         return num==0 ? 0 : num%9==0 ? 9 : num%9;
+    }
+
+    public static int addDigits3(int num) {
+        int i = sumDigit(num);
+        while (i > 9) {
+         i = sumDigit(i);
+        }
+        return i;
+    }
+
+    private static int sumDigit(int num) {
+        int sum = 0;
+        while (num > 0) {
+            int digit = num % 10;
+            sum = sum + digit;
+            num = num / 10;
+        }
+        return sum;
     }
 }

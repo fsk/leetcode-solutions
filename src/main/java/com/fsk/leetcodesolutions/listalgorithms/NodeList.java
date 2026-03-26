@@ -1,5 +1,9 @@
 package com.fsk.leetcodesolutions.listalgorithms;
 
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Objects;
+
 public class NodeList {
 
     int data;
@@ -44,6 +48,24 @@ public class NodeList {
             head2.next = orderedTwoListMerge(head1, head2.next);
             return head2;
         }
+    }
+
+    // LeetCode -> Palindrome Linked List
+    public boolean isPalindrome(NodeList head) {
+        if (head == null || head.next == null) return true;
+        List<Integer> list = new ArrayList<>();
+        while (head != null) {
+            list.add(head.data);
+            head = head.next;
+        }
+        int startIndex = 0;
+        int lastIndex = list.size() - 1;
+        while (startIndex < lastIndex) {
+            if (!Objects.equals(list.get(startIndex), list.get(lastIndex))) return false;
+            startIndex++;
+            lastIndex--;
+        }
+        return true;
     }
 
 }

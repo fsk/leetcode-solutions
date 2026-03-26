@@ -18,9 +18,19 @@ public class Main {
         nodeList2.addNode(10);
         nodeList2.printList();
 
+        NodeList nodeList3 = new NodeList(1);
+        nodeList3.addNode(2);
+        nodeList3.addNode(3);
+        nodeList3.addNode(4);
+        nodeList3.addNode(3);
+        nodeList3.addNode(2);
+        nodeList3.addNode(1);
+
 
         NodeList mergedNodeList = nodeList1.orderedTwoListMerge(nodeList1, nodeList2);
         mergedNodeList.printList();
+
+        System.out.println(nodeList3.isPalindrome(nodeList3));
 
     }
 

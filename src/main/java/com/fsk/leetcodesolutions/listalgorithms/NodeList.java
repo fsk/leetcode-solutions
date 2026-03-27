@@ -36,6 +36,19 @@ public class NodeList {
         System.out.println("NULL");
     }
 
+    public void deleteNode(NodeList node) {
+        int data = node.data;
+        NodeList current = this;
+        while (current.next != null) {
+            if (current.next.data == data) {
+                current.next = current.next.next;
+                return;
+            }
+            current = current.next;
+        }
+    }
+
+
     // LEETCODE SOLUTION 21
     public NodeList orderedTwoListMerge(NodeList head1, NodeList head2) {
         if (head1 == null) return head2;

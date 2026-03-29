@@ -1,5 +1,8 @@
 package com.fsk.youtube.liststructure.linkedlist.leetcodelinkedlistquestions;
 
+import java.util.ArrayList;
+import java.util.Objects;
+
 public class Main3 {
 
     public static void main(String[] args) {
@@ -18,7 +21,18 @@ public class Main3 {
 
         ListNode listNode = mergeTwoLists(list1, list2);
 
-        listNode.printList();
+        //listNode.printList();
+
+        ListNode list3 = new ListNode();
+
+        list3.addNode(5);
+        list3.addNode(8);
+        list3.addNode(13);
+        list3.addNode(8);
+        list3.addNode(5);
+        list3.addNode(5);
+        System.out.println(isPalindrome(list3));
+        //list3.addNode(5);
 
     }
 
@@ -45,4 +59,28 @@ public class Main3 {
         return dummy.next;
 
     }
+
+
+    public static boolean isPalindrome(ListNode head) {
+        if (head == null) return false;
+        ArrayList<Integer> list = new ArrayList<>();
+
+        while (head != null) {
+            list.add(head.val);
+            head = head.next;
+        }
+
+        int startIndex = 0;
+        int endIndex = list.size() - 1;
+
+        while (startIndex < endIndex) {
+            if (list.get(startIndex) != list.get(endIndex)) {
+                return false;
+            }
+            startIndex++;
+            endIndex--;
+        }
+        return true;
+    }
+
 }

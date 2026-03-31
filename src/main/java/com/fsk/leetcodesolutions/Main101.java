@@ -1,5 +1,7 @@
 package com.fsk.leetcodesolutions;
 
+import java.util.Stack;
+
 public class Main101 {
 
     public static void main(String[] args) {
@@ -10,6 +12,18 @@ public class Main101 {
             System.out.println(c);
         }
 
+        reverseString2("furkan");
+
+    }
+
+    public static void reverseString2(String str) {
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < str.length(); i++) {
+            stack.push(str.charAt(i));
+        }
+        while (!stack.isEmpty()) {
+            System.out.print(stack.pop());
+        }
     }
 
     public static void reverseString(char[] s) {
